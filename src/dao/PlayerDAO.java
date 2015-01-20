@@ -27,6 +27,8 @@ public class PlayerDAO {
 
 		PreparedStatement stmt2 = null;
 
+		PreparedStatement stmt3 = null;
+
 		if (conn != null) {
 
 			try {
@@ -35,13 +37,18 @@ public class PlayerDAO {
 						Statement.RETURN_GENERATED_KEYS);
 
 				stmt2 = conn.prepareStatement(props
-						.getProperty("player_perf_insert_qry"));
+						.getProperty("batting_stats_insert_qry"));
+
+				stmt3 = conn.prepareStatement(props
+						.getProperty("bowling_stats_insert_qry"));
 
 				int insertPlayerFlag = -1;
 				ResultSet rs = null;
 
 				int player_keyvalue = -1;
 				int i = 0;
+
+				conn.setAutoCommit(false);
 				for (Player player : players) {
 
 					i = 0;
@@ -64,18 +71,18 @@ public class PlayerDAO {
 							stmt2.setInt(++i, player.getCenturies().getOdi());
 							stmt2.setInt(++i, player.getCenturies().getTest());
 							stmt2.setInt(++i, player.getCenturies().getT20());
-							stmt2.setString(++i, "CENTURY");
 
 							stmt2.executeUpdate();
 
 							i = 0;
-							stmt2.setInt(++i, player_keyvalue);
-							stmt2.setInt(++i, player.getWickets().getOdi());
-							stmt2.setInt(++i, player.getWickets().getTest());
-							stmt2.setInt(++i, player.getWickets().getT20());
+							stmt3.setInt(++i, player_keyvalue);
+							stmt3.setInt(++i, player.getWickets().getOdi());
+							stmt3.setInt(++i, player.getWickets().getTest());
+							stmt3.setInt(++i, player.getWickets().getT20());
 
-							stmt2.setString(++i, "WICKET");
-							stmt2.executeUpdate();
+							stmt3.executeUpdate();
+
+							conn.commit();
 
 						}
 
@@ -84,9 +91,10 @@ public class PlayerDAO {
 					}
 
 				}
-
+				System.out.println("records inserted successfully");
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
+				System.out.println("records failed in insertion");
 				e.printStackTrace();
 			} finally {
 
@@ -96,6 +104,9 @@ public class PlayerDAO {
 
 					if (stmt2 != null)
 						stmt2.close();
+					
+					if (stmt3 != null)
+						stmt3.close();
 				} catch (SQLException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();

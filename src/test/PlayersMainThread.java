@@ -16,9 +16,9 @@ public class PlayersMainThread {
 
 			PlayersMainThread thread = new PlayersMainThread();
 
-			thread.insertXmlDataToDB("\\src\\xml\\res\\playerList4.xml");
+			//thread.insertXmlDataToDB("\\src\\xml\\res\\playerList4.xml");
 
-			// thread.getPlayersFromDB();
+			 thread.getPlayersFromDB();
 
 			// thread.getPlayersFromDB("ENG");
 
@@ -38,7 +38,7 @@ public class PlayersMainThread {
 		PlayerDAO dao = new PlayerDAO();
 		dao.insertPlayers(players);
 
-		System.out.println("records inserted successfully");
+		
 
 	}
 
