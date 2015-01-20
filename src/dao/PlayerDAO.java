@@ -1,0 +1,226 @@
+package dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
+
+import pojo.CenturiesPerf;
+import pojo.Player;
+import pojo.WicketsPerf;
+import util.DBConnectUtil;
+import util.PropertiesUtil;
+
+public class PlayerDAO {
+
+	public void insertPlayers(List<Player> players) {
+
+		Connection conn = DBConnectUtil.getConnection();
+
+		Properties props = PropertiesUtil.getProperties();
+
+		PreparedStatement stmt1 = null;
+
+		PreparedStatement stmt2 = null;
+
+		if (conn != null) {
+
+			try {
+				stmt1 = conn.prepareStatement(
+						props.getProperty("player_insert_qry"),
+						Statement.RETURN_GENERATED_KEYS);
+
+				stmt2 = conn.prepareStatement(props
+						.getProperty("player_perf_insert_qry"));
+
+				int insertPlayerFlag = -1;
+				ResultSet rs = null;
+
+				int player_keyvalue = -1;
+				int i = 0;
+				for (Player player : players) {
+
+					i = 0;
+					stmt1.setString(++i, player.getName());
+					stmt1.setString(++i, player.getCountry());
+					stmt1.setLong(++i, player.getBasePrice());
+					stmt1.setString(++i, player.getType());
+
+					insertPlayerFlag = stmt1.executeUpdate();
+
+					if (insertPlayerFlag > 0) {
+						insertPlayerFlag = -1;
+						rs = stmt1.getGeneratedKeys();
+
+						if (rs.next()) {
+							player_keyvalue = rs.getInt(1);
+
+							i = 0;
+							stmt2.setInt(++i, player_keyvalue);
+							stmt2.setInt(++i, player.getCenturies().getOdi());
+							stmt2.setInt(++i, player.getCenturies().getTest());
+							stmt2.setInt(++i, player.getCenturies().getT20());
+							stmt2.setString(++i, "CENTURY");
+
+							stmt2.executeUpdate();
+
+							i = 0;
+							stmt2.setInt(++i, player_keyvalue);
+							stmt2.setInt(++i, player.getWickets().getOdi());
+							stmt2.setInt(++i, player.getWickets().getTest());
+							stmt2.setInt(++i, player.getWickets().getT20());
+
+							stmt2.setString(++i, "WICKET");
+							stmt2.executeUpdate();
+
+						}
+
+						if (rs != null)
+							rs.close();
+					}
+
+				}
+
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} finally {
+
+				try {
+					if (stmt1 != null)
+						stmt1.close();
+
+					if (stmt2 != null)
+						stmt2.close();
+				} catch (SQLException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+
+		}
+
+	}
+
+	public List<Player> getAllPlayers() {
+
+		Connection conn = DBConnectUtil.getConnection();
+
+		Properties props = PropertiesUtil.getProperties();
+
+		List<Player> players = null;
+		Statement stmt = null;
+		if (conn != null) {
+
+			try {
+				stmt = conn.createStatement();
+
+				ResultSet rs = stmt.executeQuery(props
+						.getProperty("getAllPlyers_qry"));
+				players = new ArrayList<Player>();
+
+				Player player = null;
+				int i = 0;
+				while (rs.next()) {
+
+					i = 0;
+					player = new Player(new CenturiesPerf(), new WicketsPerf());
+
+					player.setName(rs.getString(++i));
+					player.setCountry(rs.getString(++i));
+					player.setBasePrice(rs.getLong(++i));
+					player.setType(rs.getString(++i));
+					player.getCenturies().setOdi(rs.getInt(++i));
+					player.getCenturies().setTest(rs.getInt(++i));
+					player.getCenturies().setT20(rs.getInt(++i));
+					player.getWickets().setOdi(rs.getInt(++i));
+					player.getWickets().setTest(rs.getInt(++i));
+					player.getWickets().setT20(rs.getInt(++i));
+
+					players.add(player);
+				}
+				if (rs != null)
+					rs.close();
+
+			} catch (SQLException e) {
+				e.printStackTrace();
+			} finally {
+				try {
+					if (stmt != null)
+						stmt.close();
+				} catch (SQLException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+
+		}
+
+		return players;
+
+	}
+
+	public List<Player> getPlayersByTeam(String countryCode) {
+		Connection conn = DBConnectUtil.getConnection();
+
+		Properties props = PropertiesUtil.getProperties();
+
+		List<Player> players = null;
+		PreparedStatement stmt = null;
+		if (conn != null) {
+
+			try {
+				stmt = conn
+						.prepareStatement(props.getProperty("getAllPlyers_qry")
+								+ " and p.country = ?");
+
+				stmt.setString(1, countryCode);
+				ResultSet rs = stmt.executeQuery();
+				players = new ArrayList<Player>();
+
+				Player player = null;
+				int i = 0;
+				while (rs.next()) {
+
+					i = 0;
+					player = new Player(new CenturiesPerf(), new WicketsPerf());
+
+					player.setName(rs.getString(++i));
+					player.setCountry(rs.getString(++i));
+					player.setBasePrice(rs.getLong(++i));
+					player.setType(rs.getString(++i));
+					player.getCenturies().setOdi(rs.getInt(++i));
+					player.getCenturies().setTest(rs.getInt(++i));
+					player.getCenturies().setT20(rs.getInt(++i));
+					player.getWickets().setOdi(rs.getInt(++i));
+					player.getWickets().setTest(rs.getInt(++i));
+					player.getWickets().setT20(rs.getInt(++i));
+
+					players.add(player);
+				}
+				if (rs != null)
+					rs.close();
+
+			} catch (SQLException e) {
+				e.printStackTrace();
+			} finally {
+
+				if (stmt != null)
+					try {
+						stmt.close();
+					} catch (SQLException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+			}
+
+		}
+
+		return players;
+
+	}
+}

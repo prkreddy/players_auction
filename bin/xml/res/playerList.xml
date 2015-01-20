@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerStore>
+    <players>
+        <name>Sachin Tendulkar</name>
+        <country>IND</country>
+        <basePrice>10000000</basePrice>
+        <centuries>
+            <odi>49</odi>
+            <test>51</test>
+            <t20>2</t20>
+        </centuries>
+        <wickets>
+            <odi>250</odi>
+            <test>53</test>
+            <t20>5</t20>
+        </wickets>
+        <type>bat</type>
+    </players>
+    <players>
+        <name>Ricky Ponting</name>
+        <country>AUS</country>
+        <basePrice>9000000</basePrice>
+        <centuries>
+            <odi>36</odi>
+            <test>32</test>
+            <t20>1</t20>
+        </centuries>
+        <wickets>
+            <odi>10</odi>
+            <test>3</test>
+            <t20>5</t20>
+        </wickets>
+        <type>bat</type>
+    </players>
+    <players>
+        <name>Jonathan Trot</name>
+        <country>ENG</country>
+        <basePrice>5000000</basePrice>
+        <centuries>
+            <odi>15</odi>
+            <test>4</test>
+            <t20>1</t20>
+        </centuries>
+        <wickets>
+            <odi>0</odi>
+            <test>0</test>
+            <t20>1</t20>
+        </wickets>
+        <type>bat</type>
+    </players>
+    <players>
+        <name>Glen Mcgrath</name>
+        <country>AUS</country>
+        <basePrice>8000000</basePrice>
+        <centuries>
+            <odi>0</odi>
+            <test>0</test>
+            <t20>0</t20>
+        </centuries>
+        <wickets>
+            <odi>600</odi>
+            <test>400</test>
+            <t20>50</t20>
+        </wickets>
+        <type>ball</type>
+    </players>
+</playerStore>

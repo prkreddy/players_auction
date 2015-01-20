@@ -1,0 +1,4451 @@
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+	yahoo:count="1" yahoo:created="2015-01-18T13:33:46Z" yahoo:lang="en-US">
+	<diagnostics>
+		<cache execution-start-time="1" execution-stop-time="3"
+			execution-time="2" method="GET" type="MEMCACHED">
+<![CDATA[
+TABLE.query.yahooapis.com.cricket.player.profile.32a704471a44b25babb639cfabbd3d13
+]]>
+		</cache>
+		<publiclyCallable>true</publiclyCallable>
+		<url execution-start-time="4" execution-stop-time="22"
+			execution-time="18">
+<![CDATA[
+http://cricketwebservice/ws/cwsapi/players.php?pids=2962&output=profile
+]]>
+		</url>
+		<user-time>39</user-time>
+		<service-time>20</service-time>
+		<build-version>0.2.212</build-version>
+	</diagnostics>
+	<results>
+		<PlayerProfile personid="2962"
+			run_id="1418823001-eah1-cricket-sg3-yahoo-com">
+			<TransId>20141217185542</TransId>
+			<TransType>1</TransType>
+			<LastUpdated>2014-12-17T18:55:42+05:30</LastUpdated>
+			<ProviderName>SPORTZINTERACTIVE</ProviderName>
+			<PersonalDetails>
+				<FirstName>Sachin</FirstName>
+				<LastName>Tendulkar</LastName>
+				<Gender>M</Gender>
+				<DateOfBirth>1973-04-24T00:00:00+05:30</DateOfBirth>
+				<PlaceOfBirth>
+					<City>Bombay (now Mumbai), Maharashtra</City>
+					<CountryCode>IND</CountryCode>
+				</PlaceOfBirth>
+				<Aliases>
+					<Aliase>Tendlya</Aliase>
+					<Aliase>Master Blaster</Aliase>
+				</Aliases>
+				<PlayerThumbImgName>
+					https://s.yimg.com/qx/cricket/fufp/images/2962_thumb-16-1-2011-c0498d31775b0b23e190716d657724be.jpg
+				</PlayerThumbImgName>
+				<PlayerLargeImgName>
+					https://s.yimg.com/qx/cricket/fufp/images/2962_large-16-1-2011-8e505dcd73dd116671b450f7e4ecb19b.jpg
+				</PlayerLargeImgName>
+			</PersonalDetails>
+			<CareerDetails>
+				<Profile>
+					<p>
+						Sachin Tendulkar can unquestionably be called the 'face of modern
+						cricket'. He follows Sir Donald Bradman and Sir Vivian Richards as
+						his generation's most successful batsman. The only close
+						competitors Tendulkar has faced are Brian Lara and in more recent
+						times, Ricky Ponting. Statistically, while Bradman scaled
+						unreachable heights, Tendulkar, by his sheer consistency and
+						longevity, marked his era with sheer greatness and enormous
+						fan-following that shall, like the Australian great, probably
+						never be conquered.
+						<br />
+						<br />
+						By the advent of the 20th century, watching Tendulkar as India's
+						lone warrior, staging single-handed fights and carrying the hopes
+						of a billion hearts was cricket's grandest spectacle. Too often,
+						his achievements would be let down by lack of support from
+						teammates. Yet, his ability to continue to live to fight another
+						day, shoulder blame unfairly and always delve into positives,
+						transcends Tendulkar beyond a cricketing icon to a role model and
+						a prized treasure for the often-tarnished image of the sport.
+						Tendulkar went on to be the game's leading run-getter,
+						half-centurion and centurion in the two most prominent forms of
+						the game.
+						<br />
+						<br />
+						He didn't have the best of starts in international cricket - a
+						duck on ODI debut and an unflattering 15 in his maiden Test inning
+						against Pakistan as a 16-year-old. It underlines the old adage of
+						attitude over talent reminding everyone that even legends have to
+						struggle to find their feet. He did make it big, one small step at
+						a time. First replacing Sanjay Manjrekar as India's most
+						formidable batsman of the time and then becoming the only
+						contender to Sunil Gavaskar's stature in Indian batting history.
+						Finally, even the great Sir Don Bradman drew parallels between
+						himself and Tendulkar. In between, captaincy called on him on a
+						few occasions, but it was one thing he wasn't cut out for. He
+						always enjoyed and more importantly, planned before-hand on how to
+						deal with some of the toughest bowlers in the world. Hence, he had
+						enjoyed far more success in comparison with other great batsmen in
+						the world, against the likes of some of the most dangerous bowlers
+						in the world. Shane Warne, Glenn McGrath, Wasim Akram were some of
+						them.
+						<br />
+						<br />
+						With the passage of time, came India's ascendency after
+						disappointing pasts during Tendulkar's foray at the peak of his
+						career. He was now provided with the long-awaited support crew.
+						But he still remained the mainstay while guiding his nation
+						towards the summit of Test rankings.
+						<br />
+						<br />
+						Tendulkar's long-awaited dream was finally fulfilled when he, as
+						part of Team India, emerged victorious in the 2011 ICC Cricket
+						World Cup. Throughout the tournament, he was a consistent
+						performer with the bat.
+						<br />
+						<br />
+						Virat Kohli perfectly summed up the sentiment of many when he
+						famously said, &quot;Sachin Tendulkar has carried the burden of
+						the nation's expectations for 21 years.&quot; The Master added
+						another feather to his cap when he scored his 100th international
+						hundred in the 2012 Asia Cup against Bangladesh after a year long
+						wait. Tendulkar admitted he was under severe pressure but was
+						relieved to have the monkey off his back. However, the rest of the
+						year wasn't productive as Tendulkar struggled to score runs.
+						<br />
+						<br />
+						At the end of 2012, Tendulkar finally announced his ODI retirement
+						with an aim to prolong his Test career but that decision
+						backfired. He then bade an emotional goodbye from all forms of
+						cricket post the home Test series against West Indies in 2013, in
+						front of a jam-packed, emotional home crowd at the Wankhede
+						Stadium.
+					</p>
+					<br />
+					<b>Fast Facts</b>
+					<br />
+					<br />
+					<ul>
+
+					</ul>
+				</Profile>
+				<Style>
+					<Batting>Right Handed</Batting>
+					<Bowling>Off break</Bowling>
+				</Style>
+				<Role>Batsman</Role>
+				<Team active="no" adv_gen="yes" primary="yes" teamid="4">India</Team>
+				<Team active="no" teamid="395">India A</Team>
+				<Team active="no" teamid="399">India B</Team>
+				<Team active="no" teamid="400">India Blue</Team>
+				<Team active="no" teamid="401">Indian Board President's XI</Team>
+				<Team active="no" teamid="417">India Seniors</Team>
+				<Team active="no" teamid="830">Rest of India</Team>
+				<Team active="no" teamid="833">Rest of the World</Team>
+				<Team active="no" teamid="1029">Wills XI</Team>
+				<Team active="no" teamid="1051">West Zone</Team>
+				<Team active="no" teamid="1062">Yorkshire</Team>
+				<Team active="no" teamid="1111">Mumbai</Team>
+				<Team active="yes" teamid="1198">Mumbai</Team>
+				<Team active="yes" teamid="1395">Marylebone Cricket Club</Team>
+				<MatchStats mtype="Test">
+					<Debut matchid="11127">
+						<Team id="4" played_for="yes">India</Team>
+						<Team id="6">Pakistan</Team>
+						<Date>1989-11-15</Date>
+					</Debut>
+					<LastPlayed matchid="187854">
+						<Team id="4" played_for="yes">India</Team>
+						<Team id="9">West Indies</Team>
+						<Date>2013-11-14</Date>
+					</LastPlayed>
+					<MOM>14</MOM>
+					<Batting type="against" value="all">
+						<Matches>200</Matches>
+						<Innings>329</Innings>
+						<NotOuts>33</NotOuts>
+						<Runs>15921</Runs>
+						<Highest>
+							<RunsScored not_out="yes">248</RunsScored>
+							<BallsFaced>379</BallsFaced>
+							<StrikeRate>65.43</StrikeRate>
+							<DateOccured>2004-12-10</DateOccured>
+						</Highest>
+						<Average>53.78</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>51</Hundreds>
+						<Fifties>68</Fifties>
+						<Fours>-</Fours>
+						<Sixes>69</Sixes>
+						<Dismissal type="CAUGHT">120</Dismissal>
+						<Dismissal type="BOWLED">54</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">6</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">42</Dismissal>
+						<Dismissal type="LBW">63</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">9</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>15</Ducks>
+					</Batting>
+					<Batting type="against" value="1">
+						<Matches>39</Matches>
+						<Innings>74</Innings>
+						<NotOuts>8</NotOuts>
+						<Runs>3630</Runs>
+						<Highest>
+							<RunsScored not_out="yes">241</RunsScored>
+							<BallsFaced>436</BallsFaced>
+							<StrikeRate>55.27</StrikeRate>
+							<DateOccured>2004-01-02</DateOccured>
+						</Highest>
+						<Average>55.00</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>11</Hundreds>
+						<Fifties>16</Fifties>
+						<Fours>-</Fours>
+						<Sixes>25</Sixes>
+						<Dismissal type="CAUGHT">25</Dismissal>
+						<Dismissal type="BOWLED">9</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">11</Dismissal>
+						<Dismissal type="LBW">17</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>4</Ducks>
+					</Batting>
+					<Batting type="against" value="2">
+						<Matches>7</Matches>
+						<Innings>9</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>820</Runs>
+						<Highest>
+							<RunsScored not_out="yes">248</RunsScored>
+							<BallsFaced>379</BallsFaced>
+							<StrikeRate>65.43</StrikeRate>
+							<DateOccured>2004-12-10</DateOccured>
+						</Highest>
+						<Average>136.66</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>5</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>-</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="3">
+						<Matches>32</Matches>
+						<Innings>53</Innings>
+						<NotOuts>4</NotOuts>
+						<Runs>2535</Runs>
+						<Highest>
+							<RunsScored not_out="no">193</RunsScored>
+							<BallsFaced>330</BallsFaced>
+							<StrikeRate>58.48</StrikeRate>
+							<DateOccured>2002-08-22</DateOccured>
+						</Highest>
+						<Average>51.73</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>7</Hundreds>
+						<Fifties>13</Fifties>
+						<Fours>-</Fours>
+						<Sixes>8</Sixes>
+						<Dismissal type="CAUGHT">20</Dismissal>
+						<Dismissal type="BOWLED">9</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">4</Dismissal>
+						<Dismissal type="LBW">12</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="5">
+						<Matches>24</Matches>
+						<Innings>39</Innings>
+						<NotOuts>5</NotOuts>
+						<Runs>1595</Runs>
+						<Highest>
+							<RunsScored not_out="no">217</RunsScored>
+							<BallsFaced>344</BallsFaced>
+							<StrikeRate>63.08</StrikeRate>
+							<DateOccured>1999-10-29</DateOccured>
+						</Highest>
+						<Average>46.91</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>4</Hundreds>
+						<Fifties>8</Fifties>
+						<Fours>-</Fours>
+						<Sixes>6</Sixes>
+						<Dismissal type="CAUGHT">15</Dismissal>
+						<Dismissal type="BOWLED">10</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">6</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="against" value="6">
+						<Matches>18</Matches>
+						<Innings>27</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>1057</Runs>
+						<Highest>
+							<RunsScored not_out="yes">194</RunsScored>
+							<BallsFaced>348</BallsFaced>
+							<StrikeRate>55.74</StrikeRate>
+							<DateOccured>2004-03-28</DateOccured>
+						</Highest>
+						<Average>42.28</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>2</Hundreds>
+						<Fifties>7</Fifties>
+						<Fours>-</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">6</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">5</Dismissal>
+						<Dismissal type="LBW">5</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="against" value="7">
+						<Matches>25</Matches>
+						<Innings>45</Innings>
+						<NotOuts>4</NotOuts>
+						<Runs>1741</Runs>
+						<Highest>
+							<RunsScored not_out="no">169</RunsScored>
+							<BallsFaced>254</BallsFaced>
+							<StrikeRate>66.53</StrikeRate>
+							<DateOccured>1997-01-02</DateOccured>
+						</Highest>
+						<Average>42.46</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>7</Hundreds>
+						<Fifties>5</Fifties>
+						<Fours>-</Fours>
+						<Sixes>9</Sixes>
+						<Dismissal type="CAUGHT">21</Dismissal>
+						<Dismissal type="BOWLED">7</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">7</Dismissal>
+						<Dismissal type="LBW">5</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>3</Ducks>
+					</Batting>
+					<Batting type="against" value="8">
+						<Matches>25</Matches>
+						<Innings>36</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>1995</Runs>
+						<Highest>
+							<RunsScored not_out="no">203</RunsScored>
+							<BallsFaced>347</BallsFaced>
+							<StrikeRate>58.50</StrikeRate>
+							<DateOccured>2010-07-26</DateOccured>
+						</Highest>
+						<Average>60.45</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>9</Hundreds>
+						<Fifties>6</Fifties>
+						<Fours>-</Fours>
+						<Sixes>10</Sixes>
+						<Dismissal type="CAUGHT">12</Dismissal>
+						<Dismissal type="BOWLED">7</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">4</Dismissal>
+						<Dismissal type="LBW">10</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="9">
+						<Matches>21</Matches>
+						<Innings>32</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>1630</Runs>
+						<Highest>
+							<RunsScored not_out="no">179</RunsScored>
+							<BallsFaced>322</BallsFaced>
+							<StrikeRate>55.59</StrikeRate>
+							<DateOccured>1994-12-01</DateOccured>
+						</Highest>
+						<Average>54.33</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>3</Hundreds>
+						<Fifties>10</Fifties>
+						<Fours>-</Fours>
+						<Sixes>5</Sixes>
+						<Dismissal type="CAUGHT">12</Dismissal>
+						<Dismissal type="BOWLED">4</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">4</Dismissal>
+						<Dismissal type="LBW">8</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>3</Ducks>
+					</Batting>
+					<Batting type="against" value="10">
+						<Matches>9</Matches>
+						<Innings>14</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>918</Runs>
+						<Highest>
+							<RunsScored not_out="yes">201</RunsScored>
+							<BallsFaced>281</BallsFaced>
+							<StrikeRate>71.53</StrikeRate>
+							<DateOccured>2000-11-25</DateOccured>
+						</Highest>
+						<Average>76.50</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>3</Hundreds>
+						<Fifties>3</Fifties>
+						<Fours>-</Fours>
+						<Sixes>2</Sixes>
+						<Dismissal type="CAUGHT">7</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="innings" value="1">
+						<Matches>91</Matches>
+						<Innings>91</Innings>
+						<NotOuts>6</NotOuts>
+						<Runs>5608</Runs>
+						<Highest>
+							<RunsScored not_out="yes">241</RunsScored>
+							<BallsFaced>436</BallsFaced>
+							<StrikeRate>55.27</StrikeRate>
+							<DateOccured>2004-01-02</DateOccured>
+						</Highest>
+						<Average>65.97</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>20</Hundreds>
+						<Fifties>20</Fifties>
+						<Fours>-</Fours>
+						<Sixes>25</Sixes>
+						<Dismissal type="CAUGHT">33</Dismissal>
+						<Dismissal type="BOWLED">16</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">3</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">13</Dismissal>
+						<Dismissal type="LBW">20</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>3</Ducks>
+					</Batting>
+					<Batting type="innings" value="2">
+						<Matches>109</Matches>
+						<Innings>106</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>5692</Runs>
+						<Highest>
+							<RunsScored not_out="yes">248</RunsScored>
+							<BallsFaced>379</BallsFaced>
+							<StrikeRate>65.43</StrikeRate>
+							<DateOccured>2004-12-10</DateOccured>
+						</Highest>
+						<Average>55.26</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>18</Hundreds>
+						<Fifties>26</Fifties>
+						<Fours>-</Fours>
+						<Sixes>22</Sixes>
+						<Dismissal type="CAUGHT">42</Dismissal>
+						<Dismissal type="BOWLED">22</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">15</Dismissal>
+						<Dismissal type="LBW">17</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>6</Ducks>
+					</Batting>
+					<Batting type="innings" value="3">
+						<Matches>73</Matches>
+						<Innings>72</Innings>
+						<NotOuts>8</NotOuts>
+						<Runs>2996</Runs>
+						<Highest>
+							<RunsScored not_out="no">176</RunsScored>
+							<BallsFaced>298</BallsFaced>
+							<StrikeRate>59.06</StrikeRate>
+							<DateOccured>2002-10-30</DateOccured>
+						</Highest>
+						<Average>46.81</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>10</Hundreds>
+						<Fifties>15</Fifties>
+						<Fours>-</Fours>
+						<Sixes>16</Sixes>
+						<Dismissal type="CAUGHT">24</Dismissal>
+						<Dismissal type="BOWLED">10</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">11</Dismissal>
+						<Dismissal type="LBW">14</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">4</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="innings" value="4">
+						<Matches>74</Matches>
+						<Innings>60</Innings>
+						<NotOuts>16</NotOuts>
+						<Runs>1625</Runs>
+						<Highest>
+							<RunsScored not_out="no">136</RunsScored>
+							<BallsFaced>273</BallsFaced>
+							<StrikeRate>49.81</StrikeRate>
+							<DateOccured>1999-01-28</DateOccured>
+						</Highest>
+						<Average>36.93</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>3</Hundreds>
+						<Fifties>7</Fifties>
+						<Fours>-</Fours>
+						<Sixes>6</Sixes>
+						<Dismissal type="CAUGHT">21</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">12</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">2</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>4</Ducks>
+					</Batting>
+					<Batting type="position" value="2">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>15</Runs>
+						<Highest>
+							<RunsScored not_out="no">15</RunsScored>
+							<BallsFaced>10</BallsFaced>
+							<StrikeRate>150.00</StrikeRate>
+							<DateOccured>1999-10-29</DateOccured>
+						</Highest>
+						<Average>15.00</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>-</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="position" value="4">
+						<Matches>179</Matches>
+						<Innings>275</Innings>
+						<NotOuts>27</NotOuts>
+						<Runs>13492</Runs>
+						<Highest>
+							<RunsScored not_out="yes">248</RunsScored>
+							<BallsFaced>379</BallsFaced>
+							<StrikeRate>65.43</StrikeRate>
+							<DateOccured>2004-12-10</DateOccured>
+						</Highest>
+						<Average>54.40</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>44</Hundreds>
+						<Fifties>58</Fifties>
+						<Fours>-</Fours>
+						<Sixes>59</Sixes>
+						<Dismissal type="CAUGHT">103</Dismissal>
+						<Dismissal type="BOWLED">47</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">6</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">32</Dismissal>
+						<Dismissal type="LBW">51</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">8</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>12</Ducks>
+					</Batting>
+					<Batting type="position" value="5">
+						<Matches>29</Matches>
+						<Innings>29</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>1552</Runs>
+						<Highest>
+							<RunsScored not_out="no">169</RunsScored>
+							<BallsFaced>254</BallsFaced>
+							<StrikeRate>66.53</StrikeRate>
+							<DateOccured>1997-01-02</DateOccured>
+						</Highest>
+						<Average>59.69</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>5</Hundreds>
+						<Fifties>6</Fifties>
+						<Fours>-</Fours>
+						<Sixes>10</Sixes>
+						<Dismissal type="CAUGHT">11</Dismissal>
+						<Dismissal type="BOWLED">2</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">5</Dismissal>
+						<Dismissal type="LBW">7</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="position" value="6">
+						<Matches>15</Matches>
+						<Innings>20</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>745</Runs>
+						<Highest>
+							<RunsScored not_out="yes">148</RunsScored>
+							<BallsFaced>213</BallsFaced>
+							<StrikeRate>69.48</StrikeRate>
+							<DateOccured>1992-01-02</DateOccured>
+						</Highest>
+						<Average>43.82</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>2</Hundreds>
+						<Fifties>4</Fifties>
+						<Fours>-</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">3</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">5</Dismissal>
+						<Dismissal type="LBW">5</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="position" value="7">
+						<Matches>4</Matches>
+						<Innings>4</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>117</Runs>
+						<Highest>
+							<RunsScored not_out="no">41</RunsScored>
+							<BallsFaced>90</BallsFaced>
+							<StrikeRate>45.55</StrikeRate>
+							<DateOccured>1989-12-01</DateOccured>
+						</Highest>
+						<Average>29.25</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>-</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">3</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="where" value="away">
+						<Matches>106</Matches>
+						<Innings>176</Innings>
+						<NotOuts>17</NotOuts>
+						<Runs>8705</Runs>
+						<Highest>
+							<RunsScored not_out="yes">248</RunsScored>
+							<BallsFaced>379</BallsFaced>
+							<StrikeRate>65.43</StrikeRate>
+							<DateOccured>2004-12-10</DateOccured>
+						</Highest>
+						<Average>54.74</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>29</Hundreds>
+						<Fifties>36</Fifties>
+						<Fours>-</Fours>
+						<Sixes>33</Sixes>
+						<Dismissal type="CAUGHT">59</Dismissal>
+						<Dismissal type="BOWLED">27</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">25</Dismissal>
+						<Dismissal type="LBW">40</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">5</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>10</Ducks>
+					</Batting>
+					<Batting type="where" value="home">
+						<Matches>94</Matches>
+						<Innings>153</Innings>
+						<NotOuts>16</NotOuts>
+						<Runs>7216</Runs>
+						<Highest>
+							<RunsScored not_out="no">217</RunsScored>
+							<BallsFaced>344</BallsFaced>
+							<StrikeRate>63.08</StrikeRate>
+							<DateOccured>1999-10-29</DateOccured>
+						</Highest>
+						<Average>52.67</Average>
+						<StrikeRate>-</StrikeRate>
+						<Hundreds>22</Hundreds>
+						<Fifties>32</Fifties>
+						<Fours>-</Fours>
+						<Sixes>36</Sixes>
+						<Dismissal type="CAUGHT">61</Dismissal>
+						<Dismissal type="BOWLED">27</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">4</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">17</Dismissal>
+						<Dismissal type="LBW">23</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">4</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>5</Ducks>
+					</Batting>
+					<Bowling type="against" value="all">
+						<Matches>200</Matches>
+						<Innings>145</Innings>
+						<Balls>4240</Balls>
+						<Runs>2492</Runs>
+						<Wickets>46</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>10</RunsGiven>
+							<DateOccured>2000-02-24</DateOccured>
+						</BBI>
+						<Average>54.17</Average>
+						<EconomyRate>3.52</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">6</Extra>
+						<Extra type="no">55</Extra>
+					</Bowling>
+					<Bowling type="against" value="1">
+						<Matches>39</Matches>
+						<Innings>31</Innings>
+						<Balls>980</Balls>
+						<Runs>567</Runs>
+						<Wickets>11</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>31</RunsGiven>
+							<DateOccured>2001-03-11</DateOccured>
+						</BBI>
+						<Average>51.54</Average>
+						<EconomyRate>3.47</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">27</Extra>
+					</Bowling>
+					<Bowling type="against" value="2">
+						<Matches>7</Matches>
+						<Innings>6</Innings>
+						<Balls>171</Balls>
+						<Runs>130</Runs>
+						<Wickets>5</Wickets>
+						<BBI teamid_against="2">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>35</RunsGiven>
+							<DateOccured>2007-05-25</DateOccured>
+						</BBI>
+						<Average>26.00</Average>
+						<EconomyRate>4.56</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">2</Extra>
+					</Bowling>
+					<Bowling type="against" value="3">
+						<Matches>32</Matches>
+						<Innings>20</Innings>
+						<Balls>522</Balls>
+						<Runs>320</Runs>
+						<Wickets>2</Wickets>
+						<BBI teamid_against="3">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>26</RunsGiven>
+							<DateOccured>2007-08-09</DateOccured>
+						</BBI>
+						<Average>160.00</Average>
+						<EconomyRate>3.67</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">7</Extra>
+					</Bowling>
+					<Bowling type="against" value="5">
+						<Matches>24</Matches>
+						<Innings>13</Innings>
+						<Balls>456</Balls>
+						<Runs>272</Runs>
+						<Wickets>7</Wickets>
+						<BBI teamid_against="5">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>7</RunsGiven>
+							<DateOccured>1998-12-26</DateOccured>
+						</BBI>
+						<Average>38.85</Average>
+						<EconomyRate>3.57</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">4</Extra>
+					</Bowling>
+					<Bowling type="against" value="6">
+						<Matches>18</Matches>
+						<Innings>19</Innings>
+						<Balls>624</Balls>
+						<Runs>395</Runs>
+						<Wickets>9</Wickets>
+						<BBI teamid_against="6">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>35</RunsGiven>
+							<DateOccured>1999-01-28</DateOccured>
+						</BBI>
+						<Average>43.88</Average>
+						<EconomyRate>3.79</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">5</Extra>
+					</Bowling>
+					<Bowling type="against" value="7">
+						<Matches>25</Matches>
+						<Innings>21</Innings>
+						<Balls>527</Balls>
+						<Runs>300</Runs>
+						<Wickets>7</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>10</RunsGiven>
+							<DateOccured>2000-02-24</DateOccured>
+						</BBI>
+						<Average>42.85</Average>
+						<EconomyRate>3.41</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">2</Extra>
+					</Bowling>
+					<Bowling type="against" value="8">
+						<Matches>25</Matches>
+						<Innings>9</Innings>
+						<Balls>180</Balls>
+						<Runs>74</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="8">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>0</RunsGiven>
+							<DateOccured>1997-12-03</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>2.46</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="9">
+						<Matches>21</Matches>
+						<Innings>15</Innings>
+						<Balls>408</Balls>
+						<Runs>262</Runs>
+						<Wickets>3</Wickets>
+						<BBI teamid_against="9">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>107</RunsGiven>
+							<DateOccured>2002-05-10</DateOccured>
+						</BBI>
+						<Average>87.33</Average>
+						<EconomyRate>3.85</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">2</Extra>
+						<Extra type="no">4</Extra>
+					</Bowling>
+					<Bowling type="against" value="10">
+						<Matches>9</Matches>
+						<Innings>11</Innings>
+						<Balls>372</Balls>
+						<Runs>172</Runs>
+						<Wickets>2</Wickets>
+						<BBI teamid_against="10">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>19</RunsGiven>
+							<DateOccured>2001-06-15</DateOccured>
+						</BBI>
+						<Average>86.00</Average>
+						<EconomyRate>2.77</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">4</Extra>
+					</Bowling>
+					<Bowling type="where" value="away">
+						<Matches>159</Matches>
+						<Innings>78</Innings>
+						<Balls>2228</Balls>
+						<Runs>1392</Runs>
+						<Wickets>30</Wickets>
+						<BBI teamid_against="5">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>7</RunsGiven>
+							<DateOccured>1998-12-26</DateOccured>
+						</BBI>
+						<Average>46.40</Average>
+						<EconomyRate>3.74</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">6</Extra>
+						<Extra type="no">39</Extra>
+					</Bowling>
+					<Bowling type="where" value="home">
+						<Matches>188</Matches>
+						<Innings>67</Innings>
+						<Balls>2012</Balls>
+						<Runs>1100</Runs>
+						<Wickets>16</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>10</RunsGiven>
+							<DateOccured>2000-02-24</DateOccured>
+						</BBI>
+						<Average>68.75</Average>
+						<EconomyRate>3.28</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">16</Extra>
+					</Bowling>
+					<Bowling type="innings" value="1">
+						<Matches>91</Matches>
+						<Innings>38</Innings>
+						<Balls>1048</Balls>
+						<Runs>569</Runs>
+						<Wickets>10</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>10</RunsGiven>
+							<DateOccured>1992-01-25</DateOccured>
+						</BBI>
+						<Average>56.90</Average>
+						<EconomyRate>3.25</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">3</Extra>
+						<Extra type="no">9</Extra>
+					</Bowling>
+					<Bowling type="innings" value="2">
+						<Matches>109</Matches>
+						<Innings>38</Innings>
+						<Balls>1344</Balls>
+						<Runs>808</Runs>
+						<Wickets>16</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>10</RunsGiven>
+							<DateOccured>2000-02-24</DateOccured>
+						</BBI>
+						<Average>50.50</Average>
+						<EconomyRate>3.60</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">3</Extra>
+						<Extra type="no">15</Extra>
+					</Bowling>
+					<Bowling type="innings" value="3">
+						<Matches>73</Matches>
+						<Innings>46</Innings>
+						<Balls>1209</Balls>
+						<Runs>711</Runs>
+						<Wickets>13</Wickets>
+						<BBI teamid_against="5">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>30</RunsGiven>
+							<DateOccured>1999-01-02</DateOccured>
+						</BBI>
+						<Average>54.69</Average>
+						<EconomyRate>3.52</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">11</Extra>
+					</Bowling>
+					<Bowling type="innings" value="4">
+						<Matches>74</Matches>
+						<Innings>23</Innings>
+						<Balls>639</Balls>
+						<Runs>404</Runs>
+						<Wickets>7</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>31</RunsGiven>
+							<DateOccured>2001-03-11</DateOccured>
+						</BBI>
+						<Average>57.71</Average>
+						<EconomyRate>3.79</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">20</Extra>
+					</Bowling>
+					<Fielding role="fielder" type="against" value="all">
+						<CatchesTaken>115</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>8</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1">
+						<CatchesTaken>23</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="2">
+						<CatchesTaken>6</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="3">
+						<CatchesTaken>22</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="5">
+						<CatchesTaken>10</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="6">
+						<CatchesTaken>8</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="7">
+						<CatchesTaken>13</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="8">
+						<CatchesTaken>12</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="9">
+						<CatchesTaken>16</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="10">
+						<CatchesTaken>5</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="away">
+						<CatchesTaken>68</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>3</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="home">
+						<CatchesTaken>47</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>5</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="1">
+						<CatchesTaken>39</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="2">
+						<CatchesTaken>29</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="3">
+						<CatchesTaken>37</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>3</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="4">
+						<CatchesTaken>10</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Captain type="against" value="all">
+						<Status>4</Status>
+						<Won>4</Won>
+						<Lost>9</Lost>
+						<Tie>0</Tie>
+						<NoResult>12</NoResult>
+						<NumberOfMatches>25</NumberOfMatches>
+						<WinPercentage>16</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1">
+						<Status>4</Status>
+						<Won>1</Won>
+						<Lost>3</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>4</NumberOfMatches>
+						<WinPercentage>75</WinPercentage>
+					</Captain>
+					<Captain type="against" value="5">
+						<Status>4</Status>
+						<Won>1</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>2</NoResult>
+						<NumberOfMatches>3</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+					<Captain type="against" value="7">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>5</Lost>
+						<Tie>0</Tie>
+						<NoResult>1</NoResult>
+						<NumberOfMatches>8</NumberOfMatches>
+						<WinPercentage>62.5</WinPercentage>
+					</Captain>
+					<Captain type="against" value="8">
+						<Status>4</Status>
+						<Won>0</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>5</NoResult>
+						<NumberOfMatches>5</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+					<Captain type="against" value="9">
+						<Status>4</Status>
+						<Won>0</Won>
+						<Lost>1</Lost>
+						<Tie>0</Tie>
+						<NoResult>4</NoResult>
+						<NumberOfMatches>5</NumberOfMatches>
+						<WinPercentage>20</WinPercentage>
+					</Captain>
+				</MatchStats>
+				<MatchStats mtype="ODI">
+					<Debut matchid="2602">
+						<Team id="4" played_for="yes">India</Team>
+						<Team id="6">Pakistan</Team>
+						<Date>1989-12-18</Date>
+					</Debut>
+					<LastPlayed matchid="105128">
+						<Team id="4" played_for="yes">India</Team>
+						<Team id="6">Pakistan</Team>
+						<Date>2012-03-18</Date>
+					</LastPlayed>
+					<MOM>62</MOM>
+					<Batting type="against" value="all">
+						<Matches>463</Matches>
+						<Innings>452</Innings>
+						<NotOuts>41</NotOuts>
+						<Runs>18426</Runs>
+						<Highest>
+							<RunsScored not_out="yes">200</RunsScored>
+							<BallsFaced>147</BallsFaced>
+							<StrikeRate>136.05</StrikeRate>
+							<DateOccured>2010-02-24</DateOccured>
+						</Highest>
+						<Average>44.83</Average>
+						<StrikeRate>86.23</StrikeRate>
+						<Hundreds>49</Hundreds>
+						<Fifties>96</Fifties>
+						<Fours>2016</Fours>
+						<Sixes>195</Sixes>
+						<Dismissal type="CAUGHT">165</Dismissal>
+						<Dismissal type="BOWLED">68</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">15</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">72</Dismissal>
+						<Dismissal type="LBW">39</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">34</Dismissal>
+						<Dismissal type="STUMPED">11</Dismissal>
+						<Ducks>20</Ducks>
+					</Batting>
+					<Batting type="against" value="1">
+						<Matches>71</Matches>
+						<Innings>70</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>3077</Runs>
+						<Highest>
+							<RunsScored not_out="no">175</RunsScored>
+							<BallsFaced>141</BallsFaced>
+							<StrikeRate>124.11</StrikeRate>
+							<DateOccured>2009-11-05</DateOccured>
+						</Highest>
+						<Average>44.59</Average>
+						<StrikeRate>84.74</StrikeRate>
+						<Hundreds>9</Hundreds>
+						<Fifties>15</Fifties>
+						<Fours>330</Fours>
+						<Sixes>35</Sixes>
+						<Dismissal type="CAUGHT">29</Dismissal>
+						<Dismissal type="BOWLED">8</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">3</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">11</Dismissal>
+						<Dismissal type="LBW">7</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">7</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="against" value="2">
+						<Matches>12</Matches>
+						<Innings>11</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>496</Runs>
+						<Highest>
+							<RunsScored not_out="no">114</RunsScored>
+							<BallsFaced>147</BallsFaced>
+							<StrikeRate>77.55</StrikeRate>
+							<DateOccured>2012-03-16</DateOccured>
+						</Highest>
+						<Average>49.60</Average>
+						<StrikeRate>85.07</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>2</Fifties>
+						<Fours>67</Fours>
+						<Sixes>5</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">2</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">4</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="11">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>57</Runs>
+						<Highest>
+							<RunsScored not_out="yes">57</RunsScored>
+							<BallsFaced>29</BallsFaced>
+							<StrikeRate>196.55</StrikeRate>
+							<DateOccured>2007-03-19</DateOccured>
+						</Highest>
+						<Average>-</Average>
+						<StrikeRate>196.55</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>2</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="3">
+						<Matches>37</Matches>
+						<Innings>37</Innings>
+						<NotOuts>4</NotOuts>
+						<Runs>1455</Runs>
+						<Highest>
+							<RunsScored not_out="no">120</RunsScored>
+							<BallsFaced>115</BallsFaced>
+							<StrikeRate>104.34</StrikeRate>
+							<DateOccured>2011-02-27</DateOccured>
+						</Highest>
+						<Average>44.09</Average>
+						<StrikeRate>89.20</StrikeRate>
+						<Hundreds>2</Hundreds>
+						<Fifties>10</Fifties>
+						<Fours>173</Fours>
+						<Sixes>17</Sixes>
+						<Dismissal type="CAUGHT">9</Dismissal>
+						<Dismissal type="BOWLED">8</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">7</Dismissal>
+						<Dismissal type="LBW">5</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">2</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="13">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>42</Runs>
+						<Highest>
+							<RunsScored not_out="no">38</RunsScored>
+							<BallsFaced>56</BallsFaced>
+							<StrikeRate>67.85</StrikeRate>
+							<DateOccured>2011-03-06</DateOccured>
+						</Highest>
+						<Average>21.00</Average>
+						<StrikeRate>71.18</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>5</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="14">
+						<Matches>10</Matches>
+						<Innings>9</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>647</Runs>
+						<Highest>
+							<RunsScored not_out="no">146</RunsScored>
+							<BallsFaced>132</BallsFaced>
+							<StrikeRate>110.60</StrikeRate>
+							<DateOccured>2001-10-24</DateOccured>
+						</Highest>
+						<Average>107.83</Average>
+						<StrikeRate>97.00</StrikeRate>
+						<Hundreds>4</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>73</Fours>
+						<Sixes>5</Sixes>
+						<Dismissal type="CAUGHT">4</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="20">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>152</Runs>
+						<Highest>
+							<RunsScored not_out="no">152</RunsScored>
+							<BallsFaced>151</BallsFaced>
+							<StrikeRate>100.66</StrikeRate>
+							<DateOccured>2003-02-23</DateOccured>
+						</Highest>
+						<Average>152.00</Average>
+						<StrikeRate>100.66</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>18</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="15">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>79</Runs>
+						<Highest>
+							<RunsScored not_out="no">52</RunsScored>
+							<BallsFaced>72</BallsFaced>
+							<StrikeRate>72.22</StrikeRate>
+							<DateOccured>2003-02-12</DateOccured>
+						</Highest>
+						<Average>39.50</Average>
+						<StrikeRate>84.04</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>13</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="5">
+						<Matches>42</Matches>
+						<Innings>41</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>1750</Runs>
+						<Highest>
+							<RunsScored not_out="yes">186</RunsScored>
+							<BallsFaced>150</BallsFaced>
+							<StrikeRate>124.00</StrikeRate>
+							<DateOccured>1999-11-08</DateOccured>
+						</Highest>
+						<Average>46.05</Average>
+						<StrikeRate>95.36</StrikeRate>
+						<Hundreds>5</Hundreds>
+						<Fifties>8</Fifties>
+						<Fours>206</Fours>
+						<Sixes>26</Sixes>
+						<Dismissal type="CAUGHT">14</Dismissal>
+						<Dismissal type="BOWLED">5</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">4</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">5</Dismissal>
+						<Dismissal type="LBW">5</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">4</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>4</Ducks>
+					</Batting>
+					<Batting type="against" value="6">
+						<Matches>69</Matches>
+						<Innings>67</Innings>
+						<NotOuts>4</NotOuts>
+						<Runs>2526</Runs>
+						<Highest>
+							<RunsScored not_out="no">141</RunsScored>
+							<BallsFaced>135</BallsFaced>
+							<StrikeRate>104.44</StrikeRate>
+							<DateOccured>2004-03-16</DateOccured>
+						</Highest>
+						<Average>40.09</Average>
+						<StrikeRate>87.49</StrikeRate>
+						<Hundreds>5</Hundreds>
+						<Fifties>16</Fifties>
+						<Fours>294</Fours>
+						<Sixes>29</Sixes>
+						<Dismissal type="CAUGHT">25</Dismissal>
+						<Dismissal type="BOWLED">10</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">15</Dismissal>
+						<Dismissal type="LBW">6</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>5</Ducks>
+					</Batting>
+					<Batting type="against" value="7">
+						<Matches>57</Matches>
+						<Innings>57</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>2001</Runs>
+						<Highest>
+							<RunsScored not_out="yes">200</RunsScored>
+							<BallsFaced>147</BallsFaced>
+							<StrikeRate>136.05</StrikeRate>
+							<DateOccured>2010-02-24</DateOccured>
+						</Highest>
+						<Average>35.73</Average>
+						<StrikeRate>76.31</StrikeRate>
+						<Hundreds>5</Hundreds>
+						<Fifties>8</Fifties>
+						<Fours>219</Fours>
+						<Sixes>15</Sixes>
+						<Dismissal type="CAUGHT">26</Dismissal>
+						<Dismissal type="BOWLED">10</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">11</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">5</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="against" value="8">
+						<Matches>84</Matches>
+						<Innings>80</Innings>
+						<NotOuts>9</NotOuts>
+						<Runs>3113</Runs>
+						<Highest>
+							<RunsScored not_out="no">138</RunsScored>
+							<BallsFaced>133</BallsFaced>
+							<StrikeRate>103.75</StrikeRate>
+							<DateOccured>2009-09-14</DateOccured>
+						</Highest>
+						<Average>43.84</Average>
+						<StrikeRate>87.54</StrikeRate>
+						<Hundreds>8</Hundreds>
+						<Fifties>17</Fifties>
+						<Fours>303</Fours>
+						<Sixes>30</Sixes>
+						<Dismissal type="CAUGHT">26</Dismissal>
+						<Dismissal type="BOWLED">13</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">4</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">8</Dismissal>
+						<Dismissal type="LBW">9</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">7</Dismissal>
+						<Dismissal type="STUMPED">4</Dismissal>
+						<Ducks>3</Ducks>
+					</Batting>
+					<Batting type="against" value="21">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>81</Runs>
+						<Highest>
+							<RunsScored not_out="no">63</RunsScored>
+							<BallsFaced>77</BallsFaced>
+							<StrikeRate>81.81</StrikeRate>
+							<DateOccured>1994-04-13</DateOccured>
+						</Highest>
+						<Average>40.50</Average>
+						<StrikeRate>79.41</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>9</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="9">
+						<Matches>39</Matches>
+						<Innings>39</Innings>
+						<NotOuts>9</NotOuts>
+						<Runs>1573</Runs>
+						<Highest>
+							<RunsScored not_out="yes">141</RunsScored>
+							<BallsFaced>148</BallsFaced>
+							<StrikeRate>95.27</StrikeRate>
+							<DateOccured>2006-09-14</DateOccured>
+						</Highest>
+						<Average>52.43</Average>
+						<StrikeRate>78.02</StrikeRate>
+						<Hundreds>4</Hundreds>
+						<Fifties>11</Fifties>
+						<Fours>152</Fours>
+						<Sixes>8</Sixes>
+						<Dismissal type="CAUGHT">12</Dismissal>
+						<Dismissal type="BOWLED">5</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">5</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">4</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>5</Ducks>
+					</Batting>
+					<Batting type="against" value="10">
+						<Matches>34</Matches>
+						<Innings>33</Innings>
+						<NotOuts>5</NotOuts>
+						<Runs>1377</Runs>
+						<Highest>
+							<RunsScored not_out="no">146</RunsScored>
+							<BallsFaced>153</BallsFaced>
+							<StrikeRate>95.42</StrikeRate>
+							<DateOccured>2000-12-08</DateOccured>
+						</Highest>
+						<Average>49.17</Average>
+						<StrikeRate>91.55</StrikeRate>
+						<Hundreds>5</Hundreds>
+						<Fifties>5</Fifties>
+						<Fours>152</Fours>
+						<Sixes>20</Sixes>
+						<Dismissal type="CAUGHT">16</Dismissal>
+						<Dismissal type="BOWLED">4</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">4</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="innings" value="1">
+						<Matches>222</Matches>
+						<Innings>220</Innings>
+						<NotOuts>15</NotOuts>
+						<Runs>9706</Runs>
+						<Highest>
+							<RunsScored not_out="yes">200</RunsScored>
+							<BallsFaced>147</BallsFaced>
+							<StrikeRate>136.05</StrikeRate>
+							<DateOccured>2010-02-24</DateOccured>
+						</Highest>
+						<Average>47.34</Average>
+						<StrikeRate>84.34</StrikeRate>
+						<Hundreds>32</Hundreds>
+						<Fifties>44</Fifties>
+						<Fours>1000</Fours>
+						<Sixes>101</Sixes>
+						<Dismissal type="CAUGHT">81</Dismissal>
+						<Dismissal type="BOWLED">31</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">6</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">42</Dismissal>
+						<Dismissal type="LBW">14</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">23</Dismissal>
+						<Dismissal type="STUMPED">6</Dismissal>
+						<Ducks>5</Ducks>
+					</Batting>
+					<Batting type="innings" value="2">
+						<Matches>241</Matches>
+						<Innings>232</Innings>
+						<NotOuts>26</NotOuts>
+						<Runs>8720</Runs>
+						<Highest>
+							<RunsScored not_out="no">175</RunsScored>
+							<BallsFaced>141</BallsFaced>
+							<StrikeRate>124.11</StrikeRate>
+							<DateOccured>2009-11-05</DateOccured>
+						</Highest>
+						<Average>42.33</Average>
+						<StrikeRate>88.44</StrikeRate>
+						<Hundreds>17</Hundreds>
+						<Fifties>52</Fifties>
+						<Fours>1016</Fours>
+						<Sixes>94</Sixes>
+						<Dismissal type="CAUGHT">84</Dismissal>
+						<Dismissal type="BOWLED">37</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">9</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">30</Dismissal>
+						<Dismissal type="LBW">25</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">11</Dismissal>
+						<Dismissal type="STUMPED">5</Dismissal>
+						<Ducks>15</Ducks>
+					</Batting>
+					<Batting type="position" value="1">
+						<Matches>48</Matches>
+						<Innings>47</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>1625</Runs>
+						<Highest>
+							<RunsScored not_out="no">120</RunsScored>
+							<BallsFaced>141</BallsFaced>
+							<StrikeRate>85.10</StrikeRate>
+							<DateOccured>1999-08-29</DateOccured>
+						</Highest>
+						<Average>36.11</Average>
+						<StrikeRate>82.82</StrikeRate>
+						<Hundreds>2</Hundreds>
+						<Fifties>9</Fifties>
+						<Fours>194</Fours>
+						<Sixes>12</Sixes>
+						<Dismissal type="CAUGHT">18</Dismissal>
+						<Dismissal type="BOWLED">7</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">9</Dismissal>
+						<Dismissal type="LBW">6</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">2</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="position" value="2">
+						<Matches>295</Matches>
+						<Innings>293</Innings>
+						<NotOuts>21</NotOuts>
+						<Runs>13685</Runs>
+						<Highest>
+							<RunsScored not_out="yes">200</RunsScored>
+							<BallsFaced>147</BallsFaced>
+							<StrikeRate>136.05</StrikeRate>
+							<DateOccured>2010-02-24</DateOccured>
+						</Highest>
+						<Average>50.31</Average>
+						<StrikeRate>88.71</StrikeRate>
+						<Hundreds>43</Hundreds>
+						<Fifties>66</Fifties>
+						<Fours>1582</Fours>
+						<Sixes>155</Sixes>
+						<Dismissal type="CAUGHT">113</Dismissal>
+						<Dismissal type="BOWLED">46</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">7</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">46</Dismissal>
+						<Dismissal type="LBW">25</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">24</Dismissal>
+						<Dismissal type="STUMPED">7</Dismissal>
+						<Ducks>11</Ducks>
+					</Batting>
+					<Batting type="position" value="3">
+						<Matches>10</Matches>
+						<Innings>10</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>92</Runs>
+						<Highest>
+							<RunsScored not_out="no">31</RunsScored>
+							<BallsFaced>38</BallsFaced>
+							<StrikeRate>81.57</StrikeRate>
+							<DateOccured>2007-01-21</DateOccured>
+						</Highest>
+						<Average>10.22</Average>
+						<StrikeRate>48.16</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>9</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">4</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="position" value="4">
+						<Matches>66</Matches>
+						<Innings>61</Innings>
+						<NotOuts>8</NotOuts>
+						<Runs>2059</Runs>
+						<Highest>
+							<RunsScored not_out="yes">140</RunsScored>
+							<BallsFaced>101</BallsFaced>
+							<StrikeRate>138.61</StrikeRate>
+							<DateOccured>1999-05-23</DateOccured>
+						</Highest>
+						<Average>38.84</Average>
+						<StrikeRate>77.08</StrikeRate>
+						<Hundreds>4</Hundreds>
+						<Fifties>15</Fifties>
+						<Fours>164</Fours>
+						<Sixes>14</Sixes>
+						<Dismissal type="CAUGHT">21</Dismissal>
+						<Dismissal type="BOWLED">9</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">3</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">11</Dismissal>
+						<Dismissal type="LBW">3</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>5</Ducks>
+					</Batting>
+					<Batting type="position" value="5">
+						<Matches>38</Matches>
+						<Innings>36</Innings>
+						<NotOuts>8</NotOuts>
+						<Runs>797</Runs>
+						<Highest>
+							<RunsScored not_out="yes">82</RunsScored>
+							<BallsFaced>81</BallsFaced>
+							<StrikeRate>101.23</StrikeRate>
+							<DateOccured>1993-01-18</DateOccured>
+						</Highest>
+						<Average>28.46</Average>
+						<StrikeRate>81.07</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>5</Fifties>
+						<Fours>55</Fours>
+						<Sixes>9</Sixes>
+						<Dismissal type="CAUGHT">8</Dismissal>
+						<Dismissal type="BOWLED">4</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">3</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">2</Dismissal>
+						<Dismissal type="LBW">4</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">5</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>3</Ducks>
+					</Batting>
+					<Batting type="position" value="6">
+						<Matches>5</Matches>
+						<Innings>4</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>148</Runs>
+						<Highest>
+							<RunsScored not_out="yes">57</RunsScored>
+							<BallsFaced>29</BallsFaced>
+							<StrikeRate>196.55</StrikeRate>
+							<DateOccured>2007-03-19</DateOccured>
+						</Highest>
+						<Average>49.33</Average>
+						<StrikeRate>134.54</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>11</Fours>
+						<Sixes>5</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="position" value="7">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>20</Runs>
+						<Highest>
+							<RunsScored not_out="no">20</RunsScored>
+							<BallsFaced>25</BallsFaced>
+							<StrikeRate>80.00</StrikeRate>
+							<DateOccured>1990-04-27</DateOccured>
+						</Highest>
+						<Average>20.00</Average>
+						<StrikeRate>80.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>1</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="where" value="away">
+						<Matches>146</Matches>
+						<Innings>145</Innings>
+						<NotOuts>10</NotOuts>
+						<Runs>5002</Runs>
+						<Highest>
+							<RunsScored not_out="no">163</RunsScored>
+							<BallsFaced>133</BallsFaced>
+							<StrikeRate>122.55</StrikeRate>
+							<DateOccured>2009-03-08</DateOccured>
+						</Highest>
+						<Average>37.05</Average>
+						<StrikeRate>81.73</StrikeRate>
+						<Hundreds>12</Hundreds>
+						<Fifties>23</Fifties>
+						<Fours>550</Fours>
+						<Sixes>39</Sixes>
+						<Dismissal type="CAUGHT">57</Dismissal>
+						<Dismissal type="BOWLED">21</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">5</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">24</Dismissal>
+						<Dismissal type="LBW">16</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">8</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>8</Ducks>
+					</Batting>
+					<Batting type="where" value="home">
+						<Matches>164</Matches>
+						<Innings>160</Innings>
+						<NotOuts>15</NotOuts>
+						<Runs>6976</Runs>
+						<Highest>
+							<RunsScored not_out="yes">200</RunsScored>
+							<BallsFaced>147</BallsFaced>
+							<StrikeRate>136.05</StrikeRate>
+							<DateOccured>2010-02-24</DateOccured>
+						</Highest>
+						<Average>48.11</Average>
+						<StrikeRate>88.40</StrikeRate>
+						<Hundreds>20</Hundreds>
+						<Fifties>38</Fifties>
+						<Fours>811</Fours>
+						<Sixes>71</Sixes>
+						<Dismissal type="CAUGHT">50</Dismissal>
+						<Dismissal type="BOWLED">27</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">6</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">24</Dismissal>
+						<Dismissal type="LBW">16</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">13</Dismissal>
+						<Dismissal type="STUMPED">6</Dismissal>
+						<Ducks>5</Ducks>
+					</Batting>
+					<Batting type="where" value="neutral">
+						<Matches>153</Matches>
+						<Innings>147</Innings>
+						<NotOuts>16</NotOuts>
+						<Runs>6448</Runs>
+						<Highest>
+							<RunsScored not_out="no">152</RunsScored>
+							<BallsFaced>151</BallsFaced>
+							<StrikeRate>100.66</StrikeRate>
+							<DateOccured>2003-02-23</DateOccured>
+						</Highest>
+						<Average>49.22</Average>
+						<StrikeRate>87.65</StrikeRate>
+						<Hundreds>17</Hundreds>
+						<Fifties>35</Fifties>
+						<Fours>655</Fours>
+						<Sixes>85</Sixes>
+						<Dismissal type="CAUGHT">58</Dismissal>
+						<Dismissal type="BOWLED">20</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">4</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">24</Dismissal>
+						<Dismissal type="LBW">7</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">13</Dismissal>
+						<Dismissal type="STUMPED">3</Dismissal>
+						<Ducks>7</Ducks>
+					</Batting>
+					<Bowling type="against" value="all">
+						<Matches>463</Matches>
+						<Innings>270</Innings>
+						<Balls>8054</Balls>
+						<Runs>6850</Runs>
+						<Wickets>154</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>5</WicketsTaken>
+							<RunsGiven>32</RunsGiven>
+							<DateOccured>1998-04-01</DateOccured>
+						</BBI>
+						<Average>44.48</Average>
+						<EconomyRate>5.10</EconomyRate>
+						<FourWickets>4</FourWickets>
+						<FiveWickets>2</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">196</Extra>
+						<Extra type="no">44</Extra>
+					</Bowling>
+					<Bowling type="against" value="1">
+						<Matches>71</Matches>
+						<Innings>37</Innings>
+						<Balls>1050</Balls>
+						<Runs>886</Runs>
+						<Wickets>20</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>5</WicketsTaken>
+							<RunsGiven>32</RunsGiven>
+							<DateOccured>1998-04-01</DateOccured>
+						</BBI>
+						<Average>44.30</Average>
+						<EconomyRate>5.06</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>1</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">19</Extra>
+						<Extra type="no">9</Extra>
+					</Bowling>
+					<Bowling type="against" value="2">
+						<Matches>12</Matches>
+						<Innings>8</Innings>
+						<Balls>231</Balls>
+						<Runs>175</Runs>
+						<Wickets>12</Wickets>
+						<BBI teamid_against="2">
+							<WicketsTaken>4</WicketsTaken>
+							<RunsGiven>54</RunsGiven>
+							<DateOccured>2004-12-27</DateOccured>
+						</BBI>
+						<Average>14.58</Average>
+						<EconomyRate>4.54</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">8</Extra>
+						<Extra type="no">6</Extra>
+					</Bowling>
+					<Bowling type="against" value="11">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<Balls>6</Balls>
+						<Runs>1</Runs>
+						<Wickets>1</Wickets>
+						<BBI teamid_against="11">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>1</RunsGiven>
+							<DateOccured>2007-03-19</DateOccured>
+						</BBI>
+						<Average>1.00</Average>
+						<EconomyRate>1.00</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="3">
+						<Matches>37</Matches>
+						<Innings>19</Innings>
+						<Balls>443</Balls>
+						<Runs>428</Runs>
+						<Wickets>3</Wickets>
+						<BBI teamid_against="3">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>13</RunsGiven>
+							<DateOccured>2002-09-22</DateOccured>
+						</BBI>
+						<Average>142.66</Average>
+						<EconomyRate>5.79</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">16</Extra>
+						<Extra type="no">1</Extra>
+					</Bowling>
+					<Bowling type="against" value="13">
+						<Matches>2</Matches>
+						<Innings>1</Innings>
+						<Balls>24</Balls>
+						<Runs>24</Runs>
+						<Wickets>1</Wickets>
+						<BBI teamid_against="13">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>24</RunsGiven>
+							<DateOccured>2007-06-23</DateOccured>
+						</BBI>
+						<Average>24.00</Average>
+						<EconomyRate>6.00</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="14">
+						<Matches>10</Matches>
+						<Innings>6</Innings>
+						<Balls>144</Balls>
+						<Runs>140</Runs>
+						<Wickets>2</Wickets>
+						<BBI teamid_against="14">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>28</RunsGiven>
+							<DateOccured>2003-03-20</DateOccured>
+						</BBI>
+						<Average>70.00</Average>
+						<EconomyRate>5.83</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">8</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="15">
+						<Matches>2</Matches>
+						<Innings>1</Innings>
+						<Balls>24</Balls>
+						<Runs>9</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="15">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>9</RunsGiven>
+							<DateOccured>2003-02-12</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>2.25</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="5">
+						<Matches>42</Matches>
+						<Innings>23</Innings>
+						<Balls>747</Balls>
+						<Runs>625</Runs>
+						<Wickets>13</Wickets>
+						<BBI teamid_against="5">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>34</RunsGiven>
+							<DateOccured>1999-01-12</DateOccured>
+						</BBI>
+						<Average>48.07</Average>
+						<EconomyRate>5.02</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">20</Extra>
+						<Extra type="no">8</Extra>
+					</Bowling>
+					<Bowling type="against" value="6">
+						<Matches>69</Matches>
+						<Innings>47</Innings>
+						<Balls>1478</Balls>
+						<Runs>1342</Runs>
+						<Wickets>29</Wickets>
+						<BBI teamid_against="6">
+							<WicketsTaken>5</WicketsTaken>
+							<RunsGiven>50</RunsGiven>
+							<DateOccured>2005-04-02</DateOccured>
+						</BBI>
+						<Average>46.27</Average>
+						<EconomyRate>5.44</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>1</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">46</Extra>
+						<Extra type="no">12</Extra>
+					</Bowling>
+					<Bowling type="against" value="7">
+						<Matches>57</Matches>
+						<Innings>37</Innings>
+						<Balls>1230</Balls>
+						<Runs>1030</Runs>
+						<Wickets>17</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>4</WicketsTaken>
+							<RunsGiven>56</RunsGiven>
+							<DateOccured>2000-03-15</DateOccured>
+						</BBI>
+						<Average>60.58</Average>
+						<EconomyRate>5.02</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">20</Extra>
+						<Extra type="no">5</Extra>
+					</Bowling>
+					<Bowling type="against" value="8">
+						<Matches>84</Matches>
+						<Innings>38</Innings>
+						<Balls>1163</Balls>
+						<Runs>930</Runs>
+						<Wickets>21</Wickets>
+						<BBI teamid_against="8">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>43</RunsGiven>
+							<DateOccured>1994-02-15</DateOccured>
+						</BBI>
+						<Average>44.28</Average>
+						<EconomyRate>4.79</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">30</Extra>
+						<Extra type="no">1</Extra>
+					</Bowling>
+					<Bowling type="against" value="21">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<Balls>54</Balls>
+						<Runs>43</Runs>
+						<Wickets>3</Wickets>
+						<BBI teamid_against="21">
+							<WicketsTaken>3</WicketsTaken>
+							<RunsGiven>21</RunsGiven>
+							<DateOccured>2004-07-16</DateOccured>
+						</BBI>
+						<Average>14.33</Average>
+						<EconomyRate>4.77</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">2</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="9">
+						<Matches>39</Matches>
+						<Innings>27</Innings>
+						<Balls>864</Balls>
+						<Runs>646</Runs>
+						<Wickets>20</Wickets>
+						<BBI teamid_against="9">
+							<WicketsTaken>4</WicketsTaken>
+							<RunsGiven>34</RunsGiven>
+							<DateOccured>1991-10-22</DateOccured>
+						</BBI>
+						<Average>32.30</Average>
+						<EconomyRate>4.48</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">13</Extra>
+						<Extra type="no">1</Extra>
+					</Bowling>
+					<Bowling type="against" value="10">
+						<Matches>34</Matches>
+						<Innings>23</Innings>
+						<Balls>596</Balls>
+						<Runs>571</Runs>
+						<Wickets>12</Wickets>
+						<BBI teamid_against="10">
+							<WicketsTaken>2</WicketsTaken>
+							<RunsGiven>41</RunsGiven>
+							<DateOccured>2002-09-14</DateOccured>
+						</BBI>
+						<Average>47.58</Average>
+						<EconomyRate>5.74</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">13</Extra>
+						<Extra type="no">1</Extra>
+					</Bowling>
+					<Bowling type="where" value="away">
+						<Matches>164</Matches>
+						<Innings>77</Innings>
+						<Balls>2076</Balls>
+						<Runs>1836</Runs>
+						<Wickets>32</Wickets>
+						<BBI teamid_against="9">
+							<WicketsTaken>4</WicketsTaken>
+							<RunsGiven>34</RunsGiven>
+							<DateOccured>1991-10-22</DateOccured>
+						</BBI>
+						<Average>57.37</Average>
+						<EconomyRate>5.30</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">50</Extra>
+						<Extra type="no">7</Extra>
+					</Bowling>
+					<Bowling type="where" value="home">
+						<Matches>146</Matches>
+						<Innings>97</Innings>
+						<Balls>3136</Balls>
+						<Runs>2716</Runs>
+						<Wickets>66</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>5</WicketsTaken>
+							<RunsGiven>32</RunsGiven>
+							<DateOccured>1998-04-01</DateOccured>
+						</BBI>
+						<Average>41.15</Average>
+						<EconomyRate>5.19</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>2</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">68</Extra>
+						<Extra type="no">26</Extra>
+					</Bowling>
+					<Bowling type="where" value="neutral">
+						<Matches>153</Matches>
+						<Innings>96</Innings>
+						<Balls>2842</Balls>
+						<Runs>2298</Runs>
+						<Wickets>56</Wickets>
+						<BBI teamid_against="9">
+							<WicketsTaken>4</WicketsTaken>
+							<RunsGiven>34</RunsGiven>
+							<DateOccured>1991-10-22</DateOccured>
+						</BBI>
+						<Average>41.03</Average>
+						<EconomyRate>4.85</EconomyRate>
+						<FourWickets>2</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">78</Extra>
+						<Extra type="no">11</Extra>
+					</Bowling>
+					<Bowling type="innings" value="1">
+						<Matches>222</Matches>
+						<Innings>145</Innings>
+						<Balls>4443</Balls>
+						<Runs>3805</Runs>
+						<Wickets>77</Wickets>
+						<BBI teamid_against="9">
+							<WicketsTaken>4</WicketsTaken>
+							<RunsGiven>34</RunsGiven>
+							<DateOccured>1991-10-22</DateOccured>
+						</BBI>
+						<Average>49.41</Average>
+						<EconomyRate>5.13</EconomyRate>
+						<FourWickets>1</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">107</Extra>
+						<Extra type="no">20</Extra>
+					</Bowling>
+					<Bowling type="innings" value="2">
+						<Matches>241</Matches>
+						<Innings>125</Innings>
+						<Balls>3611</Balls>
+						<Runs>3045</Runs>
+						<Wickets>77</Wickets>
+						<BBI teamid_against="1">
+							<WicketsTaken>5</WicketsTaken>
+							<RunsGiven>32</RunsGiven>
+							<DateOccured>1998-04-01</DateOccured>
+						</BBI>
+						<Average>39.54</Average>
+						<EconomyRate>5.05</EconomyRate>
+						<FourWickets>3</FourWickets>
+						<FiveWickets>2</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">89</Extra>
+						<Extra type="no">24</Extra>
+					</Bowling>
+					<Fielding role="fielder" type="against" value="all">
+						<CatchesTaken>140</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>23</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1">
+						<CatchesTaken>31</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>3</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="2">
+						<CatchesTaken>2</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="3">
+						<CatchesTaken>15</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>3</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="5">
+						<CatchesTaken>7</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="6">
+						<CatchesTaken>29</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>5</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="7">
+						<CatchesTaken>12</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="8">
+						<CatchesTaken>30</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>5</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="9">
+						<CatchesTaken>6</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="10">
+						<CatchesTaken>5</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="14">
+						<CatchesTaken>2</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="21">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="neutral">
+						<CatchesTaken>49</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>9</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="away">
+						<CatchesTaken>37</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>7</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="home">
+						<CatchesTaken>54</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>7</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="1">
+						<CatchesTaken>80</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>16</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="2">
+						<CatchesTaken>60</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>7</RunOuts>
+					</Fielding>
+					<Captain type="against" value="all">
+						<Status>4</Status>
+						<Won>23</Won>
+						<Lost>43</Lost>
+						<Tie>1</Tie>
+						<NoResult>6</NoResult>
+						<NumberOfMatches>73</NumberOfMatches>
+						<WinPercentage>31.51</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>6</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>8</NumberOfMatches>
+						<WinPercentage>75</WinPercentage>
+					</Captain>
+					<Captain type="against" value="2">
+						<Status>4</Status>
+						<Won>1</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+					<Captain type="against" value="3">
+						<Status>4</Status>
+						<Won>0</Won>
+						<Lost>1</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>100</WinPercentage>
+					</Captain>
+					<Captain type="against" value="5">
+						<Status>4</Status>
+						<Won>4</Won>
+						<Lost>2</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>6</NumberOfMatches>
+						<WinPercentage>33.33</WinPercentage>
+					</Captain>
+					<Captain type="against" value="6">
+						<Status>4</Status>
+						<Won>8</Won>
+						<Lost>11</Lost>
+						<Tie>0</Tie>
+						<NoResult>2</NoResult>
+						<NumberOfMatches>21</NumberOfMatches>
+						<WinPercentage>52.38</WinPercentage>
+					</Captain>
+					<Captain type="against" value="7">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>7</Lost>
+						<Tie>0</Tie>
+						<NoResult>1</NoResult>
+						<NumberOfMatches>10</NumberOfMatches>
+						<WinPercentage>70</WinPercentage>
+					</Captain>
+					<Captain type="against" value="8">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>9</Lost>
+						<Tie>0</Tie>
+						<NoResult>2</NoResult>
+						<NumberOfMatches>13</NumberOfMatches>
+						<WinPercentage>69.23</WinPercentage>
+					</Captain>
+					<Captain type="against" value="9">
+						<Status>4</Status>
+						<Won>1</Won>
+						<Lost>5</Lost>
+						<Tie>0</Tie>
+						<NoResult>1</NoResult>
+						<NumberOfMatches>7</NumberOfMatches>
+						<WinPercentage>71.43</WinPercentage>
+					</Captain>
+					<Captain type="against" value="10">
+						<Status>4</Status>
+						<Won>3</Won>
+						<Lost>2</Lost>
+						<Tie>1</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>6</NumberOfMatches>
+						<WinPercentage>33.33</WinPercentage>
+					</Captain>
+				</MatchStats>
+				<MatchStats mtype="T20">
+					<Debut matchid="310">
+						<Team id="4" played_for="yes">India</Team>
+						<Team id="7">South Africa</Team>
+						<Date>2006-12-01</Date>
+					</Debut>
+					<LastPlayed matchid="310">
+						<Team id="4" played_for="yes">India</Team>
+						<Team id="7">South Africa</Team>
+						<Date>2006-12-01</Date>
+					</LastPlayed>
+					<MOM>0</MOM>
+					<Batting type="against" value="all">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>10</Runs>
+						<Highest>
+							<RunsScored not_out="no">10</RunsScored>
+							<BallsFaced>12</BallsFaced>
+							<StrikeRate>83.33</StrikeRate>
+							<DateOccured>2006-12-01</DateOccured>
+						</Highest>
+						<Average>10.00</Average>
+						<StrikeRate>83.33</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="7">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>10</Runs>
+						<Highest>
+							<RunsScored not_out="no">10</RunsScored>
+							<BallsFaced>12</BallsFaced>
+							<StrikeRate>83.33</StrikeRate>
+							<DateOccured>2006-12-01</DateOccured>
+						</Highest>
+						<Average>10.00</Average>
+						<StrikeRate>83.33</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="innings" value="2">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>10</Runs>
+						<Highest>
+							<RunsScored not_out="no">10</RunsScored>
+							<BallsFaced>12</BallsFaced>
+							<StrikeRate>83.33</StrikeRate>
+							<DateOccured>2006-12-01</DateOccured>
+						</Highest>
+						<Average>10.00</Average>
+						<StrikeRate>83.33</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="position" value="2">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>10</Runs>
+						<Highest>
+							<RunsScored not_out="no">10</RunsScored>
+							<BallsFaced>12</BallsFaced>
+							<StrikeRate>83.33</StrikeRate>
+							<DateOccured>2006-12-01</DateOccured>
+						</Highest>
+						<Average>10.00</Average>
+						<StrikeRate>83.33</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="where" value="away">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>10</Runs>
+						<Highest>
+							<RunsScored not_out="no">10</RunsScored>
+							<BallsFaced>12</BallsFaced>
+							<StrikeRate>83.33</StrikeRate>
+							<DateOccured>2006-12-01</DateOccured>
+						</Highest>
+						<Average>10.00</Average>
+						<StrikeRate>83.33</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="all" type="series" value="All-CL">
+						<Matches>13</Matches>
+						<Innings>13</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>265</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>20.38</Average>
+						<StrikeRate>109.05</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>34</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting team_context="1108" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>2</Runs>
+						<Highest>
+							<RunsScored not_out="no">2</RunsScored>
+							<BallsFaced>9</BallsFaced>
+							<StrikeRate>22.22</StrikeRate>
+							<DateOccured>2012-10-20</DateOccured>
+						</Highest>
+						<Average>2.00</Average>
+						<StrikeRate>22.22</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>0</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1197" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>48</Runs>
+						<Highest>
+							<RunsScored not_out="no">48</RunsScored>
+							<BallsFaced>39</BallsFaced>
+							<StrikeRate>123.07</StrikeRate>
+							<DateOccured>2010-09-16</DateOccured>
+						</Highest>
+						<Average>48.00</Average>
+						<StrikeRate>123.07</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>6</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1195" type="series" value="All-CL">
+						<Matches>3</Matches>
+						<Innings>3</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>90</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>30.00</Average>
+						<StrikeRate>121.62</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>11</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1267" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>0</Runs>
+						<Highest>
+							<RunsScored not_out="no">0</RunsScored>
+							<BallsFaced>2</BallsFaced>
+							<StrikeRate>0.00</StrikeRate>
+							<DateOccured>2013-10-02</DateOccured>
+						</Highest>
+						<Average>0.00</Average>
+						<StrikeRate>0.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>0</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting team_context="1110" type="series" value="All-CL">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>30</Runs>
+						<Highest>
+							<RunsScored not_out="no">15</RunsScored>
+							<BallsFaced>13</BallsFaced>
+							<StrikeRate>115.38</StrikeRate>
+							<DateOccured>2013-10-06</DateOccured>
+						</Highest>
+						<Average>15.00</Average>
+						<StrikeRate>100.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>6</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1105" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>11</Runs>
+						<Highest>
+							<RunsScored not_out="no">11</RunsScored>
+							<BallsFaced>8</BallsFaced>
+							<StrikeRate>137.50</StrikeRate>
+							<DateOccured>2010-09-19</DateOccured>
+						</Highest>
+						<Average>11.00</Average>
+						<StrikeRate>137.50</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="45" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>20</Runs>
+						<Highest>
+							<RunsScored not_out="no">20</RunsScored>
+							<BallsFaced>17</BallsFaced>
+							<StrikeRate>117.64</StrikeRate>
+							<DateOccured>2010-09-14</DateOccured>
+						</Highest>
+						<Average>20.00</Average>
+						<StrikeRate>117.64</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>3</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1268" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>22</Runs>
+						<Highest>
+							<RunsScored not_out="no">22</RunsScored>
+							<BallsFaced>23</BallsFaced>
+							<StrikeRate>95.65</StrikeRate>
+							<DateOccured>2012-10-22</DateOccured>
+						</Highest>
+						<Average>22.00</Average>
+						<StrikeRate>95.65</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>3</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1138" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>35</Runs>
+						<Highest>
+							<RunsScored not_out="no">35</RunsScored>
+							<BallsFaced>31</BallsFaced>
+							<StrikeRate>112.90</StrikeRate>
+							<DateOccured>2013-10-05</DateOccured>
+						</Highest>
+						<Average>35.00</Average>
+						<StrikeRate>112.90</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>2</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting team_context="1062" type="series" value="All-CL">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>7</Runs>
+						<Highest>
+							<RunsScored not_out="no">7</RunsScored>
+							<BallsFaced>10</BallsFaced>
+							<StrikeRate>70.00</StrikeRate>
+							<DateOccured>2012-10-18</DateOccured>
+						</Highest>
+						<Average>7.00</Average>
+						<StrikeRate>70.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>1</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Bowling type="against" value="all">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<Balls>15</Balls>
+						<Runs>12</Runs>
+						<Wickets>1</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>12</RunsGiven>
+							<DateOccured>2006-12-01</DateOccured>
+						</BBI>
+						<Average>12.00</Average>
+						<EconomyRate>4.80</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="7">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<Balls>15</Balls>
+						<Runs>12</Runs>
+						<Wickets>1</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>12</RunsGiven>
+							<DateOccured>2006-12-01</DateOccured>
+						</BBI>
+						<Average>12.00</Average>
+						<EconomyRate>4.80</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="where" value="away">
+						<Matches />
+						<Innings>1</Innings>
+						<Balls>15</Balls>
+						<Runs>12</Runs>
+						<Wickets>1</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>12</RunsGiven>
+							<DateOccured>2006-12-01</DateOccured>
+						</BBI>
+						<Average>12.00</Average>
+						<EconomyRate>4.80</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="innings" value="1">
+						<Matches />
+						<Innings>1</Innings>
+						<Balls>15</Balls>
+						<Runs>12</Runs>
+						<Wickets>1</Wickets>
+						<BBI teamid_against="7">
+							<WicketsTaken>1</WicketsTaken>
+							<RunsGiven>12</RunsGiven>
+							<DateOccured>2006-12-01</DateOccured>
+						</BBI>
+						<Average>12.00</Average>
+						<EconomyRate>4.80</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Fielding role="fielder" type="against" value="all">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="7">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="away">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="1">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" team_context="all" type="series"
+						value="All-CL">
+						<CatchesTaken>3</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" team_context="1108" type="series"
+						value="All-CL">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" team_context="1195" type="series"
+						value="All-CL">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" team_context="1197" type="series"
+						value="All-CL">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+				</MatchStats>
+				<MatchStats mtype="IPL">
+					<Debut matchid="3153">
+						<Team id="1111" played_for="yes">Mumbai</Team>
+						<Team id="1108">Chennai</Team>
+						<Date>2008-05-14</Date>
+					</Debut>
+					<LastPlayed matchid="185173">
+						<Team id="1111" played_for="yes">Mumbai</Team>
+						<Team id="1379">Hyderabad</Team>
+						<Date>2013-05-13</Date>
+					</LastPlayed>
+					<MOM>8</MOM>
+					<Batting type="against" value="all">
+						<Matches>78</Matches>
+						<Innings>78</Innings>
+						<NotOuts>11</NotOuts>
+						<Runs>2334</Runs>
+						<Highest>
+							<RunsScored not_out="yes">100</RunsScored>
+							<BallsFaced>66</BallsFaced>
+							<StrikeRate>151.51</StrikeRate>
+							<DateOccured>2011-04-15</DateOccured>
+						</Highest>
+						<Average>34.83</Average>
+						<StrikeRate>119.81</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>13</Fifties>
+						<Fours>295</Fours>
+						<Sixes>29</Sixes>
+						<Dismissal type="CAUGHT">29</Dismissal>
+						<Dismissal type="BOWLED">12</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">6</Dismissal>
+						<Dismissal type="LBW">8</Dismissal>
+						<Dismissal type="RETIREDHURT">2</Dismissal>
+						<Dismissal type="RUNOUT">6</Dismissal>
+						<Dismissal type="STUMPED">3</Dismissal>
+						<Ducks>4</Ducks>
+					</Batting>
+					<Batting type="against" value="1108">
+						<Matches>12</Matches>
+						<Innings>12</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>368</Runs>
+						<Highest>
+							<RunsScored not_out="no">74</RunsScored>
+							<BallsFaced>44</BallsFaced>
+							<StrikeRate>168.18</StrikeRate>
+							<DateOccured>2012-05-06</DateOccured>
+						</Highest>
+						<Average>36.80</Average>
+						<StrikeRate>119.48</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>3</Fifties>
+						<Fours>45</Fours>
+						<Sixes>5</Sixes>
+						<Dismissal type="CAUGHT">5</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="against" value="1112">
+						<Matches>8</Matches>
+						<Innings>8</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>230</Runs>
+						<Highest>
+							<RunsScored not_out="no">55</RunsScored>
+							<BallsFaced>43</BallsFaced>
+							<StrikeRate>127.90</StrikeRate>
+							<DateOccured>2010-03-28</DateOccured>
+						</Highest>
+						<Average>28.75</Average>
+						<StrikeRate>116.16</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>29</Fours>
+						<Sixes>2</Sixes>
+						<Dismissal type="CAUGHT">4</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1109">
+						<Matches>10</Matches>
+						<Innings>10</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>294</Runs>
+						<Highest>
+							<RunsScored not_out="no">63</RunsScored>
+							<BallsFaced>32</BallsFaced>
+							<StrikeRate>196.87</StrikeRate>
+							<DateOccured>2010-03-17</DateOccured>
+						</Highest>
+						<Average>32.66</Average>
+						<StrikeRate>118.07</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>2</Fifties>
+						<Fours>36</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">3</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">2</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1107">
+						<Matches>10</Matches>
+						<Innings>10</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>270</Runs>
+						<Highest>
+							<RunsScored not_out="no">65</RunsScored>
+							<BallsFaced>46</BallsFaced>
+							<StrikeRate>141.30</StrikeRate>
+							<DateOccured>2008-05-21</DateOccured>
+						</Highest>
+						<Average>30.00</Average>
+						<StrikeRate>113.92</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>2</Fifties>
+						<Fours>34</Fours>
+						<Sixes>2</Sixes>
+						<Dismissal type="CAUGHT">4</Dismissal>
+						<Dismissal type="BOWLED">2</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">2</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1243">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>100</Runs>
+						<Highest>
+							<RunsScored not_out="yes">100</RunsScored>
+							<BallsFaced>66</BallsFaced>
+							<StrikeRate>151.51</StrikeRate>
+							<DateOccured>2011-04-15</DateOccured>
+						</Highest>
+						<Average>-</Average>
+						<StrikeRate>151.51</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>12</Fours>
+						<Sixes>3</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1106">
+						<Matches>10</Matches>
+						<Innings>10</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>326</Runs>
+						<Highest>
+							<RunsScored not_out="yes">71</RunsScored>
+							<BallsFaced>48</BallsFaced>
+							<StrikeRate>147.91</StrikeRate>
+							<DateOccured>2010-03-22</DateOccured>
+						</Highest>
+						<Average>36.22</Average>
+						<StrikeRate>135.27</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>2</Fifties>
+						<Fours>42</Fours>
+						<Sixes>7</Sixes>
+						<Dismissal type="CAUGHT">3</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="against" value="1244">
+						<Matches>5</Matches>
+						<Innings>5</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>152</Runs>
+						<Highest>
+							<RunsScored not_out="no">44</RunsScored>
+							<BallsFaced>29</BallsFaced>
+							<StrikeRate>151.72</StrikeRate>
+							<DateOccured>2013-04-13</DateOccured>
+						</Highest>
+						<Average>30.40</Average>
+						<StrikeRate>108.57</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>21</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">4</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1110">
+						<Matches>8</Matches>
+						<Innings>8</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>273</Runs>
+						<Highest>
+							<RunsScored not_out="yes">89</RunsScored>
+							<BallsFaced>59</BallsFaced>
+							<StrikeRate>150.84</StrikeRate>
+							<DateOccured>2010-04-11</DateOccured>
+						</Highest>
+						<Average>45.50</Average>
+						<StrikeRate>118.69</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>2</Fifties>
+						<Fours>29</Fours>
+						<Sixes>3</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1105">
+						<Matches>12</Matches>
+						<Innings>12</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>269</Runs>
+						<Highest>
+							<RunsScored not_out="yes">55</RunsScored>
+							<BallsFaced>46</BallsFaced>
+							<StrikeRate>119.56</StrikeRate>
+							<DateOccured>2011-04-12</DateOccured>
+						</Highest>
+						<Average>26.90</Average>
+						<StrikeRate>113.98</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>42</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">4</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="against" value="1379">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>52</Runs>
+						<Highest>
+							<RunsScored not_out="no">38</RunsScored>
+							<BallsFaced>31</BallsFaced>
+							<StrikeRate>122.58</StrikeRate>
+							<DateOccured>2013-05-13</DateOccured>
+						</Highest>
+						<Average>52.00</Average>
+						<StrikeRate>120.93</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>5</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="innings" value="1">
+						<Matches>42</Matches>
+						<Innings>42</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>1237</Runs>
+						<Highest>
+							<RunsScored not_out="yes">100</RunsScored>
+							<BallsFaced>66</BallsFaced>
+							<StrikeRate>151.51</StrikeRate>
+							<DateOccured>2011-04-15</DateOccured>
+						</Highest>
+						<Average>31.71</Average>
+						<StrikeRate>121.75</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>7</Fifties>
+						<Fours>161</Fours>
+						<Sixes>16</Sixes>
+						<Dismissal type="CAUGHT">14</Dismissal>
+						<Dismissal type="BOWLED">8</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">6</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="innings" value="2">
+						<Matches>36</Matches>
+						<Innings>36</Innings>
+						<NotOuts>8</NotOuts>
+						<Runs>1097</Runs>
+						<Highest>
+							<RunsScored not_out="no">74</RunsScored>
+							<BallsFaced>44</BallsFaced>
+							<StrikeRate>168.18</StrikeRate>
+							<DateOccured>2012-05-06</DateOccured>
+						</Highest>
+						<Average>39.17</Average>
+						<StrikeRate>117.70</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>6</Fifties>
+						<Fours>134</Fours>
+						<Sixes>13</Sixes>
+						<Dismissal type="CAUGHT">15</Dismissal>
+						<Dismissal type="BOWLED">4</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">2</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="position" value="1">
+						<Matches>4</Matches>
+						<Innings>4</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>107</Runs>
+						<Highest>
+							<RunsScored not_out="yes">58</RunsScored>
+							<BallsFaced>51</BallsFaced>
+							<StrikeRate>113.72</StrikeRate>
+							<DateOccured>2012-05-20</DateOccured>
+						</Highest>
+						<Average>35.66</Average>
+						<StrikeRate>100.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>11</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="position" value="2">
+						<Matches>70</Matches>
+						<Innings>70</Innings>
+						<NotOuts>9</NotOuts>
+						<Runs>2120</Runs>
+						<Highest>
+							<RunsScored not_out="yes">100</RunsScored>
+							<BallsFaced>66</BallsFaced>
+							<StrikeRate>151.51</StrikeRate>
+							<DateOccured>2011-04-15</DateOccured>
+						</Highest>
+						<Average>34.75</Average>
+						<StrikeRate>120.86</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>12</Fifties>
+						<Fours>274</Fours>
+						<Sixes>27</Sixes>
+						<Dismissal type="CAUGHT">27</Dismissal>
+						<Dismissal type="BOWLED">12</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">2</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">6</Dismissal>
+						<Dismissal type="LBW">6</Dismissal>
+						<Dismissal type="RETIREDHURT">2</Dismissal>
+						<Dismissal type="RUNOUT">4</Dismissal>
+						<Dismissal type="STUMPED">3</Dismissal>
+						<Ducks>4</Ducks>
+					</Batting>
+					<Batting type="position" value="4">
+						<Matches>3</Matches>
+						<Innings>3</Innings>
+						<NotOuts>1</NotOuts>
+						<Runs>67</Runs>
+						<Highest>
+							<RunsScored not_out="yes">41</RunsScored>
+							<BallsFaced>29</BallsFaced>
+							<StrikeRate>141.37</StrikeRate>
+							<DateOccured>2009-05-12</DateOccured>
+						</Highest>
+						<Average>33.50</Average>
+						<StrikeRate>117.54</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>6</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="position" value="5">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>40</Runs>
+						<Highest>
+							<RunsScored not_out="no">40</RunsScored>
+							<BallsFaced>30</BallsFaced>
+							<StrikeRate>133.33</StrikeRate>
+							<DateOccured>2009-05-14</DateOccured>
+						</Highest>
+						<Average>40.00</Average>
+						<StrikeRate>133.33</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>4</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="where" value="away">
+						<Matches>31</Matches>
+						<Innings>31</Innings>
+						<NotOuts>6</NotOuts>
+						<Runs>875</Runs>
+						<Highest>
+							<RunsScored not_out="yes">89</RunsScored>
+							<BallsFaced>59</BallsFaced>
+							<StrikeRate>150.84</StrikeRate>
+							<DateOccured>2010-04-11</DateOccured>
+						</Highest>
+						<Average>35.00</Average>
+						<StrikeRate>116.35</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>6</Fifties>
+						<Fours>109</Fours>
+						<Sixes>8</Sixes>
+						<Dismissal type="CAUGHT">12</Dismissal>
+						<Dismissal type="BOWLED">4</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">1</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">2</Dismissal>
+						<Ducks>2</Ducks>
+					</Batting>
+					<Batting type="where" value="home">
+						<Matches>31</Matches>
+						<Innings>31</Innings>
+						<NotOuts>3</NotOuts>
+						<Runs>1008</Runs>
+						<Highest>
+							<RunsScored not_out="yes">100</RunsScored>
+							<BallsFaced>66</BallsFaced>
+							<StrikeRate>151.51</StrikeRate>
+							<DateOccured>2011-04-15</DateOccured>
+						</Highest>
+						<Average>36.00</Average>
+						<StrikeRate>121.44</StrikeRate>
+						<Hundreds>1</Hundreds>
+						<Fifties>5</Fifties>
+						<Fours>132</Fours>
+						<Sixes>11</Sixes>
+						<Dismissal type="CAUGHT">11</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">1</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">2</Dismissal>
+						<Dismissal type="LBW">5</Dismissal>
+						<Dismissal type="RETIREDHURT">1</Dismissal>
+						<Dismissal type="RUNOUT">3</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="where" value="neutral">
+						<Matches>16</Matches>
+						<Innings>16</Innings>
+						<NotOuts>2</NotOuts>
+						<Runs>451</Runs>
+						<Highest>
+							<RunsScored not_out="no">68</RunsScored>
+							<BallsFaced>45</BallsFaced>
+							<StrikeRate>151.11</StrikeRate>
+							<DateOccured>2009-04-27</DateOccured>
+						</Highest>
+						<Average>32.21</Average>
+						<StrikeRate>123.22</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>2</Fifties>
+						<Fours>54</Fours>
+						<Sixes>10</Sixes>
+						<Dismissal type="CAUGHT">6</Dismissal>
+						<Dismissal type="BOWLED">2</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">2</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">2</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Bowling type="against" value="all">
+						<Matches>78</Matches>
+						<Innings>4</Innings>
+						<Balls>36</Balls>
+						<Runs>58</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1107">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>7</RunsGiven>
+							<DateOccured>2009-04-29</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>9.66</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="1109">
+						<Matches>10</Matches>
+						<Innings>1</Innings>
+						<Balls>6</Balls>
+						<Runs>19</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1109">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>19</RunsGiven>
+							<DateOccured>2009-05-08</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>19.00</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="1107">
+						<Matches>10</Matches>
+						<Innings>1</Innings>
+						<Balls>6</Balls>
+						<Runs>7</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1107">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>7</RunsGiven>
+							<DateOccured>2009-04-29</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>7.00</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="1106">
+						<Matches>10</Matches>
+						<Innings>1</Innings>
+						<Balls>12</Balls>
+						<Runs>11</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1106">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>11</RunsGiven>
+							<DateOccured>2009-04-27</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>5.50</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="against" value="1105">
+						<Matches>12</Matches>
+						<Innings>1</Innings>
+						<Balls>12</Balls>
+						<Runs>21</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1105">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>21</RunsGiven>
+							<DateOccured>2009-05-03</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>10.50</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="where" value="neutral">
+						<Matches>16</Matches>
+						<Innings>4</Innings>
+						<Balls>36</Balls>
+						<Runs>58</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1107">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>7</RunsGiven>
+							<DateOccured>2009-04-29</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>9.66</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="innings" value="1">
+						<Matches>42</Matches>
+						<Innings>1</Innings>
+						<Balls>6</Balls>
+						<Runs>7</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1107">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>7</RunsGiven>
+							<DateOccured>2009-04-29</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>7.00</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">1</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Bowling type="innings" value="2">
+						<Matches>36</Matches>
+						<Innings>3</Innings>
+						<Balls>30</Balls>
+						<Runs>51</Runs>
+						<Wickets>0</Wickets>
+						<BBI teamid_against="1106">
+							<WicketsTaken>0</WicketsTaken>
+							<RunsGiven>11</RunsGiven>
+							<DateOccured>2009-04-27</DateOccured>
+						</BBI>
+						<Average>-</Average>
+						<EconomyRate>10.20</EconomyRate>
+						<FourWickets>0</FourWickets>
+						<FiveWickets>0</FiveWickets>
+						<TenWickets>0</TenWickets>
+						<Extra type="wide">0</Extra>
+						<Extra type="no">0</Extra>
+					</Bowling>
+					<Fielding role="fielder" type="against" value="all">
+						<CatchesTaken>23</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>3</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1105">
+						<CatchesTaken>3</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1106">
+						<CatchesTaken>7</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1107">
+						<CatchesTaken>4</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1108">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1109">
+						<CatchesTaken>0</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1110">
+						<CatchesTaken>4</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1112">
+						<CatchesTaken>3</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1244">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="neutral">
+						<CatchesTaken>7</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>1</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="away">
+						<CatchesTaken>7</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>2</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="home">
+						<CatchesTaken>9</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="1">
+						<CatchesTaken>11</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>3</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="2">
+						<CatchesTaken>12</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Captain type="against" value="all">
+						<Status>4</Status>
+						<Won>30</Won>
+						<Lost>21</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>51</NumberOfMatches>
+						<WinPercentage>58.82</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1105">
+						<Status>4</Status>
+						<Won>5</Won>
+						<Lost>3</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>8</NumberOfMatches>
+						<WinPercentage>37.5</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1106">
+						<Status>4</Status>
+						<Won>6</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>6</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1107">
+						<Status>4</Status>
+						<Won>3</Won>
+						<Lost>4</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>7</NumberOfMatches>
+						<WinPercentage>57.14</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1108">
+						<Status>4</Status>
+						<Won>4</Won>
+						<Lost>3</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>7</NumberOfMatches>
+						<WinPercentage>42.86</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1109">
+						<Status>4</Status>
+						<Won>4</Won>
+						<Lost>3</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>7</NumberOfMatches>
+						<WinPercentage>42.86</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1110">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>4</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>6</NumberOfMatches>
+						<WinPercentage>66.67</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1112">
+						<Status>4</Status>
+						<Won>4</Won>
+						<Lost>3</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>7</NumberOfMatches>
+						<WinPercentage>42.86</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1243">
+						<Status>4</Status>
+						<Won>0</Won>
+						<Lost>1</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>100</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1244">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>2</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+				</MatchStats>
+				<MatchStats mtype="CLT20">
+					<Debut matchid="3613">
+						<Team id="1111" played_for="yes">Mumbai</Team>
+						<Team id="1195">Highveld Lions</Team>
+						<Date>2010-09-10</Date>
+					</Debut>
+					<LastPlayed matchid="186833">
+						<Team id="1111" played_for="yes">Mumbai</Team>
+						<Team id="1110">Rajasthan</Team>
+						<Date>2013-10-06</Date>
+					</LastPlayed>
+					<MOM>0</MOM>
+					<Batting type="against" value="all">
+						<Matches>13</Matches>
+						<Innings>13</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>265</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>20.38</Average>
+						<StrikeRate>109.05</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>34</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="against" value="1108">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>2</Runs>
+						<Highest>
+							<RunsScored not_out="no">2</RunsScored>
+							<BallsFaced>9</BallsFaced>
+							<StrikeRate>22.22</StrikeRate>
+							<DateOccured>2012-10-20</DateOccured>
+						</Highest>
+						<Average>2.00</Average>
+						<StrikeRate>22.22</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>0</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1197">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>48</Runs>
+						<Highest>
+							<RunsScored not_out="no">48</RunsScored>
+							<BallsFaced>39</BallsFaced>
+							<StrikeRate>123.07</StrikeRate>
+							<DateOccured>2010-09-16</DateOccured>
+						</Highest>
+						<Average>48.00</Average>
+						<StrikeRate>123.07</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>6</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1195">
+						<Matches>3</Matches>
+						<Innings>3</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>90</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>30.00</Average>
+						<StrikeRate>121.62</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>11</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1267">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>0</Runs>
+						<Highest>
+							<RunsScored not_out="no">0</RunsScored>
+							<BallsFaced>2</BallsFaced>
+							<StrikeRate>0.00</StrikeRate>
+							<DateOccured>2013-10-02</DateOccured>
+						</Highest>
+						<Average>0.00</Average>
+						<StrikeRate>0.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>0</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">1</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="against" value="1110">
+						<Matches>2</Matches>
+						<Innings>2</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>30</Runs>
+						<Highest>
+							<RunsScored not_out="no">15</RunsScored>
+							<BallsFaced>13</BallsFaced>
+							<StrikeRate>115.38</StrikeRate>
+							<DateOccured>2013-10-06</DateOccured>
+						</Highest>
+						<Average>15.00</Average>
+						<StrikeRate>100.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>6</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1105">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>11</Runs>
+						<Highest>
+							<RunsScored not_out="no">11</RunsScored>
+							<BallsFaced>8</BallsFaced>
+							<StrikeRate>137.50</StrikeRate>
+							<DateOccured>2010-09-19</DateOccured>
+						</Highest>
+						<Average>11.00</Average>
+						<StrikeRate>137.50</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="45">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>20</Runs>
+						<Highest>
+							<RunsScored not_out="no">20</RunsScored>
+							<BallsFaced>17</BallsFaced>
+							<StrikeRate>117.64</StrikeRate>
+							<DateOccured>2010-09-14</DateOccured>
+						</Highest>
+						<Average>20.00</Average>
+						<StrikeRate>117.64</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>3</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1268">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>22</Runs>
+						<Highest>
+							<RunsScored not_out="no">22</RunsScored>
+							<BallsFaced>23</BallsFaced>
+							<StrikeRate>95.65</StrikeRate>
+							<DateOccured>2012-10-22</DateOccured>
+						</Highest>
+						<Average>22.00</Average>
+						<StrikeRate>95.65</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>3</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">1</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1138">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>35</Runs>
+						<Highest>
+							<RunsScored not_out="no">35</RunsScored>
+							<BallsFaced>31</BallsFaced>
+							<StrikeRate>112.90</StrikeRate>
+							<DateOccured>2013-10-05</DateOccured>
+						</Highest>
+						<Average>35.00</Average>
+						<StrikeRate>112.90</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>2</Fours>
+						<Sixes>2</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="against" value="1062">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>7</Runs>
+						<Highest>
+							<RunsScored not_out="no">7</RunsScored>
+							<BallsFaced>10</BallsFaced>
+							<StrikeRate>70.00</StrikeRate>
+							<DateOccured>2012-10-18</DateOccured>
+						</Highest>
+						<Average>7.00</Average>
+						<StrikeRate>70.00</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>1</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">0</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="innings" value="1">
+						<Matches>7</Matches>
+						<Innings>7</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>132</Runs>
+						<Highest>
+							<RunsScored not_out="no">48</RunsScored>
+							<BallsFaced>39</BallsFaced>
+							<StrikeRate>123.07</StrikeRate>
+							<DateOccured>2010-09-16</DateOccured>
+						</Highest>
+						<Average>18.85</Average>
+						<StrikeRate>103.12</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>20</Fours>
+						<Sixes>1</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">2</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="innings" value="2">
+						<Matches>6</Matches>
+						<Innings>6</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>133</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>22.16</Average>
+						<StrikeRate>115.65</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>14</Fours>
+						<Sixes>3</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">3</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="position" value="2">
+						<Matches>13</Matches>
+						<Innings>13</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>265</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>20.38</Average>
+						<StrikeRate>109.05</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>34</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">3</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Batting type="where" value="away">
+						<Matches>1</Matches>
+						<Innings>1</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>15</Runs>
+						<Highest>
+							<RunsScored not_out="no">15</RunsScored>
+							<BallsFaced>13</BallsFaced>
+							<StrikeRate>115.38</StrikeRate>
+							<DateOccured>2013-10-06</DateOccured>
+						</Highest>
+						<Average>15.00</Average>
+						<StrikeRate>88.23</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>0</Fifties>
+						<Fours>3</Fours>
+						<Sixes>0</Sixes>
+						<Dismissal type="CAUGHT">0</Dismissal>
+						<Dismissal type="BOWLED">0</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">1</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">0</Dismissal>
+						<Dismissal type="STUMPED">0</Dismissal>
+						<Ducks>0</Ducks>
+					</Batting>
+					<Batting type="where" value="neutral">
+						<Matches>12</Matches>
+						<Innings>12</Innings>
+						<NotOuts>0</NotOuts>
+						<Runs>250</Runs>
+						<Highest>
+							<RunsScored not_out="no">69</RunsScored>
+							<BallsFaced>42</BallsFaced>
+							<StrikeRate>164.28</StrikeRate>
+							<DateOccured>2010-09-10</DateOccured>
+						</Highest>
+						<Average>20.83</Average>
+						<StrikeRate>110.61</StrikeRate>
+						<Hundreds>0</Hundreds>
+						<Fifties>1</Fifties>
+						<Fours>31</Fours>
+						<Sixes>4</Sixes>
+						<Dismissal type="CAUGHT">2</Dismissal>
+						<Dismissal type="BOWLED">6</Dismissal>
+						<Dismissal type="CAUGHTBYBOWLER">0</Dismissal>
+						<Dismissal type="CAUGHTBYKEEPER">2</Dismissal>
+						<Dismissal type="LBW">0</Dismissal>
+						<Dismissal type="RETIREDHURT">0</Dismissal>
+						<Dismissal type="RUNOUT">1</Dismissal>
+						<Dismissal type="STUMPED">1</Dismissal>
+						<Ducks>1</Ducks>
+					</Batting>
+					<Fielding role="fielder" type="against" value="all">
+						<CatchesTaken>3</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1108">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1195">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="against" value="1197">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="where" value="neutral">
+						<CatchesTaken>3</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="1">
+						<CatchesTaken>2</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Fielding role="fielder" type="innings" value="2">
+						<CatchesTaken>1</CatchesTaken>
+						<StumpingsDone>0</StumpingsDone>
+						<RunOuts>0</RunOuts>
+					</Fielding>
+					<Captain type="against" value="all">
+						<Status>4</Status>
+						<Won>2</Won>
+						<Lost>2</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>4</NumberOfMatches>
+						<WinPercentage>50</WinPercentage>
+					</Captain>
+					<Captain type="against" value="45">
+						<Status>4</Status>
+						<Won>0</Won>
+						<Lost>1</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>100</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1105">
+						<Status>4</Status>
+						<Won>1</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1195">
+						<Status>4</Status>
+						<Won>0</Won>
+						<Lost>1</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>100</WinPercentage>
+					</Captain>
+					<Captain type="against" value="1197">
+						<Status>4</Status>
+						<Won>1</Won>
+						<Lost>0</Lost>
+						<Tie>0</Tie>
+						<NoResult>0</NoResult>
+						<NumberOfMatches>1</NumberOfMatches>
+						<WinPercentage>0</WinPercentage>
+					</Captain>
+				</MatchStats>
+			</CareerDetails>
+		</PlayerProfile>
+	</results>
+</query>
