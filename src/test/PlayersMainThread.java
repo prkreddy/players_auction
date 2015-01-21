@@ -2,11 +2,13 @@ package test;
 
 import java.util.List;
 
+import player.aution.AuctionRunner;
 import pojo.Player;
 import util.DBConnectUtil;
 import xml.read.PlayerXmlReader;
 import xml.read.impl.SAXXmlReader;
 import dao.PlayerDAO;
+import dao.TeamDAO;
 
 public class PlayersMainThread {
 
@@ -16,13 +18,22 @@ public class PlayersMainThread {
 
 			PlayersMainThread thread = new PlayersMainThread();
 
-			//thread.insertXmlDataToDB("\\src\\xml\\res\\playerList4.xml");
+			// for (int i = 1; i <= 10; i++) {
+			// if (i == 8)
+			// continue;
+			//
+			// thread.insertXmlDataToDB("\\src\\xml\\res\\playerList"+i+".xml");
+			// }
 
-			 thread.getPlayersFromDB();
+			// thread.insertXmlDataToDB("\\src\\xml\\res\\playerList2.xml");
+			//thread.getTeamsFromDB();
 
-			// thread.getPlayersFromDB("ENG");
+			//thread.getPlayersFromDB("ENG");
 
 			// thread.diplayPlayersFromXmlData();
+			AuctionRunner runner = new AuctionRunner();
+			runner.init();
+			runner.runAuction();
 		} finally {
 			DBConnectUtil.releaseConnection();
 		}
@@ -38,8 +49,6 @@ public class PlayersMainThread {
 		PlayerDAO dao = new PlayerDAO();
 		dao.insertPlayers(players);
 
-		
-
 	}
 
 	public void getPlayersFromDB() {
@@ -47,6 +56,13 @@ public class PlayersMainThread {
 
 		PlayerDAO dao = new PlayerDAO();
 		parser.displayPlayers(dao.getAllPlayers());
+
+	}
+
+	public void getTeamsFromDB() {
+
+		TeamDAO dao = new TeamDAO();
+		dao.displayTeams(dao.getAllTeams());
 
 	}
 

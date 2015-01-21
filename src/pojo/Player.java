@@ -5,7 +5,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
 @XmlRootElement(name = "players")
-@XmlType(propOrder={"name","country","basePrice","centuries","wickets","type"})
+@XmlType(propOrder = { "name", "country", "basePrice", "centuries", "wickets",
+		"type" })
 public class Player {
 
 	/**
@@ -22,6 +23,8 @@ public class Player {
 		super();
 	}
 
+	private int id;
+
 	private String name;
 
 	private String country;
@@ -29,6 +32,34 @@ public class Player {
 	private long basePrice;
 
 	private String type;
+
+	private long soldPrice;
+
+	private Integer teamId;
+
+	public Integer getTeamId() {
+		return teamId;
+	}
+
+	public void setTeamId(Integer teamId) {
+		this.teamId = teamId;
+	}
+
+	public long getSoldPrice() {
+		return soldPrice;
+	}
+
+	public void setSoldPrice(long soldPrice) {
+		this.soldPrice = soldPrice;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
 
 	public String getType() {
 		return type;
@@ -55,7 +86,7 @@ public class Player {
 	public String getCountry() {
 		return country;
 	}
-	
+
 	@XmlElement
 	public void setCountry(String country) {
 		this.country = country;
@@ -74,7 +105,7 @@ public class Player {
 		return centuries;
 	}
 
-	@XmlElement(type=CenturiesPerf.class)
+	@XmlElement(type = CenturiesPerf.class)
 	public void setCenturies(Performance centuries) {
 		this.centuries = centuries;
 	}
@@ -83,7 +114,7 @@ public class Player {
 		return wickets;
 	}
 
-	@XmlElement(type=WicketsPerf.class)
+	@XmlElement(type = WicketsPerf.class)
 	public void setWickets(Performance wickets) {
 		this.wickets = wickets;
 	}
@@ -107,4 +138,14 @@ public class Player {
 
 	}
 
+	public String toString() {
+
+		return "Player Name : " + getName() + ", Player country: "
+				+ getCountry() + ", player basePrice: " + getBasePrice()
+				+ ", player type: " + getType() + "\nCentury Details: \n" +
+
+				getCenturies().toString() + " Wickets Details : \n"
+				+ getWickets().toString();
+
+	}
 }

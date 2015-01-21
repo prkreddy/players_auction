@@ -104,7 +104,7 @@ public class PlayerDAO {
 
 					if (stmt2 != null)
 						stmt2.close();
-					
+
 					if (stmt3 != null)
 						stmt3.close();
 				} catch (SQLException e) {
@@ -119,9 +119,22 @@ public class PlayerDAO {
 
 	public List<Player> getAllPlayers() {
 
-		Connection conn = DBConnectUtil.getConnection();
-
 		Properties props = PropertiesUtil.getProperties();
+
+		return getPlayersByQuery(props.getProperty("getAllPlyers_qry"));
+
+	}
+
+	public List<Player> getAllPlayerOrderbyBasePriceDesc() {
+		Properties props = PropertiesUtil.getProperties();
+
+		return getPlayersByQuery(props.getProperty("getAllPlyers_qry")
+				+ " order by p.baseprice desc ");
+	}
+
+	private List<Player> getPlayersByQuery(String query) {
+
+		Connection conn = DBConnectUtil.getConnection();
 
 		List<Player> players = null;
 		Statement stmt = null;
@@ -130,32 +143,8 @@ public class PlayerDAO {
 			try {
 				stmt = conn.createStatement();
 
-				ResultSet rs = stmt.executeQuery(props
-						.getProperty("getAllPlyers_qry"));
-				players = new ArrayList<Player>();
-
-				Player player = null;
-				int i = 0;
-				while (rs.next()) {
-
-					i = 0;
-					player = new Player(new CenturiesPerf(), new WicketsPerf());
-
-					player.setName(rs.getString(++i));
-					player.setCountry(rs.getString(++i));
-					player.setBasePrice(rs.getLong(++i));
-					player.setType(rs.getString(++i));
-					player.getCenturies().setOdi(rs.getInt(++i));
-					player.getCenturies().setTest(rs.getInt(++i));
-					player.getCenturies().setT20(rs.getInt(++i));
-					player.getWickets().setOdi(rs.getInt(++i));
-					player.getWickets().setTest(rs.getInt(++i));
-					player.getWickets().setT20(rs.getInt(++i));
-
-					players.add(player);
-				}
-				if (rs != null)
-					rs.close();
+				ResultSet rs = stmt.executeQuery(query);
+				players = getPlayers(rs);
 
 			} catch (SQLException e) {
 				e.printStackTrace();
@@ -191,30 +180,7 @@ public class PlayerDAO {
 
 				stmt.setString(1, countryCode);
 				ResultSet rs = stmt.executeQuery();
-				players = new ArrayList<Player>();
-
-				Player player = null;
-				int i = 0;
-				while (rs.next()) {
-
-					i = 0;
-					player = new Player(new CenturiesPerf(), new WicketsPerf());
-
-					player.setName(rs.getString(++i));
-					player.setCountry(rs.getString(++i));
-					player.setBasePrice(rs.getLong(++i));
-					player.setType(rs.getString(++i));
-					player.getCenturies().setOdi(rs.getInt(++i));
-					player.getCenturies().setTest(rs.getInt(++i));
-					player.getCenturies().setT20(rs.getInt(++i));
-					player.getWickets().setOdi(rs.getInt(++i));
-					player.getWickets().setTest(rs.getInt(++i));
-					player.getWickets().setT20(rs.getInt(++i));
-
-					players.add(player);
-				}
-				if (rs != null)
-					rs.close();
+				players = getPlayers(rs);
 
 			} catch (SQLException e) {
 				e.printStackTrace();
@@ -234,4 +200,46 @@ public class PlayerDAO {
 		return players;
 
 	}
+
+	private List<Player> getPlayers(ResultSet rs) throws SQLException {
+
+		List<Player> players = null;
+
+		if (rs != null) {
+
+			players = new ArrayList<Player>();
+
+			Player player = null;
+			int i = 0;
+			while (rs.next()) {
+
+				i = 0;
+				player = new Player(new CenturiesPerf(), new WicketsPerf());
+
+				player.setId(rs.getInt(++i));
+				player.setName(rs.getString(++i));
+				player.setCountry(rs.getString(++i));
+				player.setBasePrice(rs.getLong(++i));
+				player.setType(rs.getString(++i));
+				player.setSoldPrice(rs.getInt(++i));
+				int teamId = rs.getInt(++i);
+				if (rs.wasNull())
+					player.setTeamId(null);
+				else
+					player.setTeamId(teamId);
+				player.getCenturies().setOdi(rs.getInt(++i));
+				player.getCenturies().setTest(rs.getInt(++i));
+				player.getCenturies().setT20(rs.getInt(++i));
+				player.getWickets().setOdi(rs.getInt(++i));
+				player.getWickets().setTest(rs.getInt(++i));
+				player.getWickets().setT20(rs.getInt(++i));
+				players.add(player);
+			}
+			if (rs != null)
+				rs.close();
+		}
+		return players;
+
+	}
+
 }
