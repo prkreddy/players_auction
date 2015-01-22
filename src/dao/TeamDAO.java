@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Properties;
 
 import pojo.FranchiseTeam;
+import pojo.Player;
 import util.DBConnectUtil;
 import util.PropertiesUtil;
 
@@ -66,5 +67,7 @@ public class TeamDAO {
 			System.out.println(team);
 		}
 	}
+	
+	
 
 }

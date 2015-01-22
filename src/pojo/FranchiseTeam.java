@@ -1,8 +1,14 @@
 package pojo;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class FranchiseTeam {
+
+	public FranchiseTeam() {
+		// TODO Auto-generated constructor stub
+		players = new ArrayList<Player>();
+	}
 
 	private int teamId;
 
@@ -19,6 +25,16 @@ public class FranchiseTeam {
 	private int foreignPlayersCount;
 
 	private int indianPlayersCount;
+
+	private List<Player> players;
+
+	public List<Player> getPlayers() {
+		return players;
+	}
+
+	public void setPlayers(List<Player> players) {
+		this.players = players;
+	}
 
 	public int getTeamId() {
 		return teamId;
@@ -83,8 +99,6 @@ public class FranchiseTeam {
 	public void setIndianPlayersCount(int indianPlayersCount) {
 		this.indianPlayersCount = indianPlayersCount;
 	}
-
-	
 
 	public String toString() {
 

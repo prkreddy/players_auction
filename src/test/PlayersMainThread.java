@@ -16,7 +16,7 @@ public class PlayersMainThread {
 
 		try {
 
-			PlayersMainThread thread = new PlayersMainThread();
+			// PlayersMainThread thread = new PlayersMainThread();
 
 			// for (int i = 1; i <= 10; i++) {
 			// if (i == 8)
@@ -26,14 +26,14 @@ public class PlayersMainThread {
 			// }
 
 			// thread.insertXmlDataToDB("\\src\\xml\\res\\playerList2.xml");
-			//thread.getTeamsFromDB();
+			// thread.getTeamsFromDB();
 
-			//thread.getPlayersFromDB("ENG");
+			// thread.getPlayersFromDB("ENG");
 
 			// thread.diplayPlayersFromXmlData();
+			
 			AuctionRunner runner = new AuctionRunner();
 			runner.init();
-			runner.runAuction();
 		} finally {
 			DBConnectUtil.releaseConnection();
 		}

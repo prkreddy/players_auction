@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Properties;
 
 import pojo.CenturiesPerf;
+import pojo.FranchiseTeam;
 import pojo.Player;
 import pojo.WicketsPerf;
 import util.DBConnectUtil;
@@ -239,6 +240,79 @@ public class PlayerDAO {
 				rs.close();
 		}
 		return players;
+
+	}
+
+	public void updatePlayersTeamAndSoldPrice(List<Player> players,
+			List<FranchiseTeam> teams) {
+
+		Connection conn = DBConnectUtil.getConnection();
+
+		Properties props = PropertiesUtil.getProperties();
+
+		PreparedStatement stmt1 = null;
+
+		PreparedStatement stmt2 = null;
+
+		if (conn != null) {
+
+			try {
+				stmt1 = conn.prepareStatement(props
+						.getProperty("updatePlayersTeamAndSoldPrice_qry"));
+
+				stmt2 = conn.prepareStatement(props
+						.getProperty("updateTeamAuctionData_qry"));
+
+				int i = 0;
+
+				conn.setAutoCommit(false);
+
+				for (Player player : players) {
+
+					if (player.getTeamId() != null
+							&& player.getSoldPrice() != 0) {
+
+						i = 0;
+						stmt1.setLong(++i, player.getSoldPrice());
+						stmt1.setInt(++i, player.getTeamId());
+						stmt1.setInt(++i, player.getId());
+
+						stmt1.executeUpdate();
+
+					}
+
+				}
+
+				for (FranchiseTeam team : teams) {
+					i = 0;
+					stmt2.setInt(++i, team.getForeignPlayersCount());
+					stmt2.setInt(++i, team.getIndianPlayersCount());
+					stmt2.setLong(++i, team.getBalanceAamount());
+					stmt2.setInt(++i, team.getTeamId());
+
+					stmt2.executeUpdate();
+				}
+
+				conn.commit();
+				System.out.println("records inserted successfully");
+			} catch (SQLException e) {
+				System.out.println("records failed in insertion");
+				e.printStackTrace();
+			} finally {
+
+				try {
+					if (stmt1 != null)
+						stmt1.close();
+
+					if (stmt2 != null)
+						stmt2.close();
+
+				} catch (SQLException e) {
+					e.printStackTrace();
+				}
+			}
+
+		}
 
 	}
 

@@ -1,6 +1,6 @@
 package pojo;
 
-public class Rules {
+public class Rule {
 	
 	private int ruleId;
 	
